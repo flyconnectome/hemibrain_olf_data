@@ -1,61 +1,61 @@
-"","glom","n.FIB","n.FAFB","n.diff","full_lineage","order","Valence(simplified)"
-"1","D",3,3,0,"l adpn","25","Unclear: conflicting results"
-"2","DA1",6,8,-2,"lPN",NA,"Pheromonal"
-"3","DA2",5,5,0,"lPN",NA,"Aversive"
-"4","DA3",2,2,0,"l adpn","23",NA
-"5","DA4l",1,1,0,"e adpn","6","Food"
-"6","DA4m",1,1,0,"vmPN",NA,NA
-"7","DC1",1,1,0,"e adpn","12","Egg-laying"
-"8","DC2",2,2,0,"l adpn","24","Aversive"
-"9","DC3",3,3,0,"l adpn","27","Attractive"
-"10","DC4",1,1,0,"l adpn",NA,"Aversive"
-"11","DL1",2,2,0,"l adpn","22",NA
-"12","DL2d",5,5,0,"l adpn","44","Food"
-"13","DL2v",3,4,-1,"l adpn","43","Food"
-"14","DL3",3,5,-2,"lPN",NA,"Pheromonal"
-"15","DL4",1,1,0,"e adpn","21","Aversive"
-"16","DL5",1,1,0,"e adpn","17","Aversive"
-"17","DM1",1,1,0,"lPN",NA,"Food"
-"18","DM2",2,2,0,"lPN",NA,"Food"
-"19","DM3",1,1,0,"e adpn","19","Food"
-"20","DM4",1,1,0,"e adpn","16","Attractive"
-"21","DM5",2,3,-1,"lPN",NA,"Aversive"
-"22","DM6",4,3,1,"l adpn","33","Food"
-"23","DP1l",1,1,0,"lPN",NA,"Food"
-"24","DP1m",1,1,0,"e adpn","1","Aversive"
-"25","lvVC5",2,2,0,"lvPN",NA,"Egg-laying"
-"26","lvVM4",2,2,0,"lvPN",NA,NA
-"27","V",2,2,0,"various",NA,"Food/CO2 avoidance?"
-"28","VA1d",3,2,1,"l adpn","28","Pheromonal"
-"29","VA1v",3,4,-1,"l adpn","34","Pheromonal"
-"30","VA2",1,1,0,"e adpn","15","Food"
-"31","VA3",2,2,0,"l adpn","26",NA
-"32","VA4",1,1,0,"lPN",NA,"Food"
-"33","VA5",3,3,0,"lPN",NA,NA
-"34","VA6",1,1,0,"e adpn","9","Food"
-"35","VA7l",1,1,0,"e adpn","14","Aversive"
-"36","VA7m",3,3,0,"lPN",NA,NA
-"37","VC1",1,1,0,"lPN",NA,"Plant odour, possible antibiotic"
-"38","VC2",1,1,0,"lPN",NA,NA
-"39","VC3l",3,3,0,"l adpn","38","Food"
-"40","VC3m",3,3,0,"lvPN",NA,"Food"
-"41","VC4",3,3,0,"l adpn","35","Food"
-"42","VC5",1,1,0,"putative embryonic l adpn",NA,"Egg-laying"
-"43","vDA1",1,1,0,"vPN",NA,"Pheromonal"
-"44","vDP1m",1,2,-1,"vPN",NA,NA
-"45","VL1",2,2,0,"ventral AL PN",NA,NA
-"46","VL2a",1,1,0,"e adpn","11",NA
-"47","VL2p",1,1,0,"e adpn","3","Unclear: reported to be aversive heat but Greg thinks they misidentified the neurons."
-"48","VM1",1,2,-1,"lPN",NA,"Food"
-"49","VM2",2,2,0,"l adpn","32","Food"
-"51","VM3",2,2,0,"e adpn","18 and 20","Food"
-"52","VM4",1,1,0,"e adpn","7",NA
-"53","VM5d",5,4,1,"l adpn","36",NA
-"54","VM5v",2,3,-1,"l adpn","37",NA
-"55","VM7d",2,2,0,"l adpn","31","Food"
-"56","VM7v",2,2,0,"l adpn","30",NA
-"57","vVA1d",1,1,0,"vPN",NA,NA
-"58","vVA1v",2,2,0,"vPN",NA,"Pheromonal"
-"59","vVL1",1,1,0,"vPN",NA,NA
-"60","vVL2a",2,2,0,"vPN",NA,NA
-"61","vVL2p",1,1,0,"vPN",NA,NA
+"","glomerulus","FAFB.RHS","FIB","RHS.FIB","lineage","birth.order","Significance"
+"1","DP1m",1,1,0,"e adPN","1","Food"
+"2","DC4",1,1,0,"e adPN","2","Aversive"
+"3","VL2p",1,1,0,"e adPN","3","Aversive heat or alcoholic fermentation, more probable latter"
+"4","DA4l",1,1,0,"e adPN","6","Food"
+"5","VM4",1,1,0,"e adPN","7",NA
+"6","VC5",1,1,0,"e adPN","8","Egg-laying"
+"7","VA6",1,1,0,"e adPN","9","Food"
+"8","VL2a",1,1,0,"e adPN","11","Food"
+"9","DC1",1,1,0,"e adPN","12","Egg-laying"
+"10","VA7l",1,1,0,"e adPN","14","Aversive"
+"11","VA2",1,1,0,"e adPN","15","Food"
+"12","DM4",1,1,0,"e adPN","16","Attractive"
+"13","DL5",1,1,0,"e adPN","17","Aversive"
+"14","DM3",1,1,0,"e adPN","19","Food"
+"15","VM3",2,2,0,"e adPN","18 and 20","Food"
+"16","DL4",1,1,0,"e adPN","21","Aversive/Only in Egg-laying?"
+"17","DL1",2,2,0,"l adPN","22",NA
+"18","DA3",2,2,0,"l adPN","23",NA
+"19","DC2",2,2,0,"l adPN","24","Aversive"
+"20","D",3,3,0,"l adPN","25","Unclear: several reported including aversion (Knaden), pheromones (Lebreton 2017), and yeast volatiles (Tsakiris et al. 2010)"
+"21","VA3",2,2,0,"l adPN","26",NA
+"22","DC3",3,3,0,"l adPN","27","Food"
+"23","VA1d",2,3,-1,"l adPN","28","Pheromonal"
+"24","VM7v",2,2,0,"l adPN","30",NA
+"25","VM7d",2,2,0,"l adPN","31","Food"
+"26","VM2",2,2,0,"l adPN","32","Food"
+"27","DM6",3,4,-1,"l adPN","33","Food"
+"28","VA1v",4,3,1,"l adPN","34",NA
+"29","VC4",3,3,0,"l adPN","35",NA
+"30","VM5d",4,5,-1,"l adPN","36","Food"
+"31","VM5v",3,2,1,"l adPN","37",NA
+"32","VC3l",4,3,1,"l adPN","38","Food"
+"33","DL2v",4,3,1,"l adPN","43",NA
+"34","DL2d",5,5,0,"l adPN","44","Food"
+"35","DA1",8,7,1,"lPN",NA,"Pheromonal"
+"36","DA2",5,5,0,"lPN",NA,"Aversive"
+"37","DL3",5,3,2,"lPN",NA,"Pheromonal"
+"38","DM1",1,1,0,"lPN",NA,"Food"
+"39","DM2",2,2,0,"lPN",NA,"Food"
+"40","DM5",3,2,1,"lPN",NA,"Aversive"
+"41","DP1l",1,1,0,"lPN",NA,"Egg-laying"
+"42","VA4",1,1,0,"lPN",NA,"Food"
+"43","VA5",3,3,0,"lPN",NA,NA
+"44","VA7m",3,3,0,"lPN",NA,NA
+"45","VC1",1,1,0,"lPN",NA,NA
+"46","VC2",1,1,0,"lPN",NA,"Unclear: possibly dietary antioxidants, Chin et al. sees aversion in egg-laying."
+"47","VM1",2,1,1,"lPN",NA,"Food"
+"48","lvVC5",2,3,-1,"lvPN",NA,"Egg-laying"
+"49","lvVM4",2,2,0,"lvPN",NA,NA
+"50","VC3m",3,3,0,"lvPN",NA,"Food"
+"51","DA4m",1,1,0,"vmPN",NA,NA
+"52","vDA1",1,1,0,"vPN",NA,"Pheromonal"
+"53","vDP1m",2,1,1,"vPN",NA,"Food"
+"54","vVA1d",1,1,0,"vPN",NA,"Pheromonal"
+"55","vVA1v",2,2,0,"vPN",NA,NA
+"56","vVL1",1,1,0,"vPN",NA,NA
+"57","vVL2a",2,2,0,"vPN",NA,"Food"
+"58","vVL2p",1,1,0,"vPN",NA,"Aversive heat or alcoholic fermentation, more probable latter"
+"59","V",1,1,0,"vpPN",NA,"Aversive"
+"60","VL1",1,1,0,"vpPN",NA,NA
