@@ -1,42 +1,42 @@
-"";"bodyId";"Name";"Glom";"Type";"Tract";"Lineage";"Valence"
-"1";1639243580;"mPN_VP1d";"VP1d+";"uPN";"dlALT";"e AL";"hygrosensory"
-"2";1639234609;"mPN_VP1d";"VP1d+";"uPN";"dlALT";"e AL";"hygrosensory"
-"3";1727979406;"lPN2?";"VP1d + VP4";"biPN";"lALT";"ldpn";NA
-"4";1037517925;"lPN4?";"VP1d + VP4";"biPN";"lALT";"lpn";NA
-"5";1917866877;"lPNX";"VP1+";"mPN";"lALT";"lpn";NA
-"6";2065197353;"lPNX";"VP3 + VP5";"biPN";"t-lALT";"lpn";NA
-"7";2038617453;"lPNX";"VP5 + VP2";"biPN";"t-lALT";"ldpn";NA
-"8";2069644133;"lPNX";"VP5+";"uPN";"t-lALT";"ldpn";"hygrosensory"
-"9";1225100939;"lPNX";"VP2 + VC5";"biPN";"lALT";"lpn";NA
-"10";1788676257;"lPNX";"VP3+";"uPN";"t-lALT";"ldpn";"thermosensory"
-"11";1788685103;"lPNX";"VP1 + VC5";"mPN";"lALT";"lpn";NA
-"12";5813069447;"lPNX";"VP2";"uPN";"lALT";"lpn";"thermosensory"
-"13";5813056072;"lPN1_VP1m";"VP1m";"uPN";"lALT";"lpn";"hygrosensory"
-"14";5813063239;"mlPNX";"VP5 (+ GRNs)";"mPN";"mALT";"e adPN";NA
-"15";1974846717;"mPNX";"VP2 + VP1m";"biPN";"mALT";"lvpn";NA
-"16";1881401277;"mPNX";"VP1m + VP3";"biPN";"mALT";"lvpn";NA
-"17";1943811736;"mPNX";"VP1m + VP2";"biPN";"mALT";"lvpn";NA
-"18";1881059780;"mPNX";"VP2 + VP1m";"biPN";"mALT";"lvpn";NA
-"19";1943812176;"mPNX";"VP1m + VP2";"biPN";"mALT";"lvpn";NA
-"20";1912777226;"mPNX";"VP1m?";"uPN?";"mALT";NA;NA
-"21";5812996748;"mPNX";"VP1l";"uPN";"mALT";"lvpn";"hygrosensory"
-"22";1858901026;"mPNX";"VP2+";"uPN";"mALT";"adpn";"thermosensory"
-"23";850717220;"mPNX";"VP3 + VP1l";"biPN";"mALT";"e AL";NA
-"24";509626405;"mPNX";"VP1l";"uPN";"mALT";"lvpn";"hygrosensory"
-"25";850708783;"mPNX";"VP1m + VP2";"biPN";"mALT";"lvpn";NA
-"26";603785283;"mPNX";"VP3 + VP1l";"biPN";"mALT";"e AL";NA
-"27";1975187675;"mPNX";"VP1m + VP2";"biPN";"mALT";"lvpn";NA
-"28";1975187554;"mPNX";"VP2 + VP1m";"biPN";"mALT";NA;NA
-"29";1975878958;"mPN_VP";"VP2";"uPN";"mALT";"adpn";"thermosensory"
-"30";5813040515;"mPN_VP";"VP3";"uPN";"mALT";"e AL";"thermosensory"
-"31";2069648663;"mPN_VP";"VP5 + VP1m";"biPN";"mALT";"e AL";NA
-"32";1944502935;"mPN_VP";"VP5 + VP1m";"biPN";"mALT";"e AL";NA
-"33";1755556097;"mPN1_VP1";"VP3";"uPN";"mALT";"e AL";"thermosensory"
-"34";1039237469;"mlPN2";"VP1+";"mPN";"mlALT";"vpn";NA
-"35";543010474;"mlPNX";"VP4";"uPN";"mlALT";"vpn";"hygrosensory"
-"36";634759240;"mlPNX";"VP4";"uPN";"mlALT";"vpn";"hygrosensory"
-"37";663432544;"mlPNX_VP3";"VP3";"uPN";"mlALT";"vpn";"thermosensory"
-"38";1789013008;"mPNX(AMVF2)_R";"VP4 + VP2 + VL1";"mPN";"t-mALT";"lpn";NA
-"39";663787020;"t2PN1";"VP1m+";"mPN";"t-mALT";NA;NA
-"40";664814903;"t2PN1";"VP1m + VP2";"mPN";"t-mALT";NA;NA
-"41";5813077788;"mPNX";"VP1m";"uPN";"mALT";NA;"hygrosensory"
+"","skid","name","glomerulus","PN_type","tract","lineage","new_type_name","valence","type","hemisphere"
+"1",1639243580,"mPN_VP1d","VP1d+","uPN","dlALT","uk1PN","VP1d+ uk1PN","hygrosensory","fib","FIB"
+"2",1639234609,"mPN_VP1d","VP1d+","uPN","dlALT","uk1PN","VP1d+ uk1PN","hygrosensory","fib","FIB"
+"3",1727979406,"lPN2?","VP1d + VP4","mPN","lALT","lPN","VP1d + VP4 lPN",NA,"fib","FIB"
+"4",1037517925,"lPN4?","VP1d + VP4","biPN","lALT","lPN","VP1d + VP4 lPN",NA,"fib","FIB"
+"5",2065197353,"lPNX","VP3 + VP5","biPN","t-lALT","lPN","VP3 + VP5 lPN",NA,"fib","FIB"
+"6",2038617453,"lPNX","VP5 + VP2","biPN","t-lALT","lPN","VP5 + VP2 lPN",NA,"fib","FIB"
+"7",2069644133,"lPNX","VP5+","uPN","t-lALT","lPN","VP5+ lPN","hygrosensory","fib","FIB"
+"8",1225100939,"lPNX","VP2 + VC5","biPN","lALT","lPN","VP2 + VC5 lPN",NA,"fib","FIB"
+"9",1788676257,"lPNX","VP3+","uPN","t-lALT","lPN","VP3+ lPN","thermosensory","fib","FIB"
+"10",5813069447,"lPNX","VP2","uPN","lALT","lPN","VP2 lPN","thermosensory","fib","FIB"
+"11",5813056072,"lPN1_VP1m","VP1m","uPN","lALT","lPN","VP1m lPN","hygrosensory","fib","FIB"
+"12",5813063239,"mlPNX","VP5+ and SEZ","mPN","mALT","e adPN","VP5+ and SEZ e adPN",NA,"fib","FIB"
+"13",1974846717,"mPNX","VP1m + VP2","biPN","mALT","lvPN","VP1m + VP2 lvPN",NA,"fib","FIB"
+"14",1881401277,"mPNX","VP1m + VP2","biPN","mALT","lvPN","VP1m + VP2 lvPN",NA,"fib","FIB"
+"15",1943811736,"mPNX","VP1m + VP2","biPN","mALT","lvPN","VP1m + VP2 lvPN",NA,"fib","FIB"
+"16",1881059780,"mPNX","VP1m + VP2","biPN","mALT","lvPN","VP1m + VP2 lvPN",NA,"fib","FIB"
+"17",1943812176,"mPNX","VP1m + VP2","biPN","mALT","lvPN","VP1m + VP2 lvPN",NA,"fib","FIB"
+"18",1912777226,"mPNX","VP","mPN","mALT","lvPN","VP lvPN",NA,"fib","FIB"
+"19",5812996748,"mPNX","VP1l+","mPN","mALT","lvPN","VP1l+ lvPN",NA,"fib","FIB"
+"20",1858901026,"mPNX","VP2+","mPN","mALT","adPN","VP2+ adPN",NA,"fib","FIB"
+"21",850717220,"mPNX","VP1l + VP3","biPN","mALT","uk2PN","VP1l + VP3 uk2PN",NA,"fib","FIB"
+"22",509626405,"mPNX","VP1l+","mPN","mALT","lvPN","VP1l+ lvPN",NA,"fib","FIB"
+"23",850708783,"mPNX","VP","mPN","mALT","lvPN","VP lvPN",NA,"fib","FIB"
+"24",603785283,"mPNX","VP1l + VP3","biPN","mALT","uk2PN","VP1l + VP3 uk2PN",NA,"fib","FIB"
+"25",1975187675,"mPNX","VP1m + VP2","biPN","mALT","lvPN","VP1m + VP2 lvPN",NA,"fib","FIB"
+"26",1975187554,"mPNX","VP","mPN","mALT","lvPN","VP lvPN",NA,"fib","FIB"
+"27",1975878958,"mPN_VP","VP2","uPN","mALT","adPN","VP2 adPN","thermosensory","fib","FIB"
+"28",5813040515,"mPN_VP","VP3 + VP1l","biPN","mALT","uk2PN","VP3 + VP1l uk2PN",NA,"fib","FIB"
+"29",2069648663,"mPN_VP","VP1m + VP5","biPN","mALT","uk2PN","VP1m + VP5 uk2PN",NA,"fib","FIB"
+"30",1944502935,"mPN_VP","VP1m + VP5","biPN","mALT","uk2PN","VP1m + VP5 uk2PN",NA,"fib","FIB"
+"31",1755556097,"mPN1_VP1","VP3 + VP1l","biPN","mALT","uk2PN","VP3 + VP1l uk2PN",NA,"fib","FIB"
+"32",1039237469,"mlPN2","VP1d + VP1l","mPN","mlALT","vPN","VP1d + VP1l vPN",NA,"fib","FIB"
+"33",543010474,"mlPNX","VP4","uPN","mlALT","vPN","VP4 vPN","hygrosensory","fib","FIB"
+"34",634759240,"mlPNX","VP4","uPN","mlALT t5ALT","vPN","VP4 vPN","hygrosensory","fib","FIB"
+"35",663432544,"mlPNX_VP3","VP3","uPN","mlALT t5ALT","vPN","VP3 vPN","thermosensory","fib","FIB"
+"36",1789013008,"mPNX(AMVF2)_R","VP4 + VP2 + VL1","mPN","t3ALT","lPN","VP4 + VP2 + VL1 lPN",NA,"fib","FIB"
+"37",663787020,"t2PN1","VP1m+","mPN","t2ALT","uk3PN","VP1m+ uk3PN",NA,"fib","FIB"
+"38",664814903,"t2PN1","VP1m + VP2","mPN","t2ALT","uk3PN","VP1m + VP2 uk3PN",NA,"fib","FIB"
+"39",5813077788,"mPNX","VP2 + SEZ","mPN","mALT","lvPN","VP2 + SEZ lvPN",NA,"fib","FIB"
+"40",2100010400,"lPNX(ALv2)_R","VP5 + VP2","biPN","t-lALT","lPN","VP5 + VP2 lPN",NA,"fib","FIB"
+"41",1883443112,"lPNX(ALv2)_R","VP3+","uPN","t-lALT","lPN","VP3+ lPN","thermosensory","fib","FIB"
