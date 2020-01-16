@@ -3,8 +3,9 @@ Data on FIB hemibrain olfactory neurons that will be useful for analysis in upco
 
 It includes primary data such as classification of hemibrain uniglomerular Projection Neurons (uPNs) by:
 
-* glomerulus
+* bodyid, here named as skid
+* glomerulus for uni- or biglomerular PNs
 * lineage
-* axon tract
+* type name
 
 and comparison of certain features with FAFB.
