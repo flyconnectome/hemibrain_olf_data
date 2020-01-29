@@ -1,61 +1,62 @@
-"","glomerulus","FAFB.RHS","FIB","RHS.FIB","lineage","birth.order","Significance"
-"1","DP1m",1,1,0,"e adPN","1","Food"
-"2","DC4",1,1,0,"e adPN","2","Aversive"
-"3","VL2p",1,1,0,"e adPN","3","Aversive heat or alcoholic fermentation, more probable latter"
-"4","DA4l",1,1,0,"e adPN","6","Food"
-"5","VM4",1,1,0,"e adPN","7",NA
-"6","VC5",1,1,0,"e adPN","8","Egg-laying"
-"7","VA6",1,1,0,"e adPN","9","Food"
-"8","VL2a",1,1,0,"e adPN","11","Food"
-"9","DC1",1,1,0,"e adPN","12","Egg-laying"
-"10","VA7l",1,1,0,"e adPN","14","Aversive"
-"11","VA2",1,1,0,"e adPN","15","Food"
-"12","DM4",1,1,0,"e adPN","16","Attractive"
-"13","DL5",1,1,0,"e adPN","17","Aversive"
-"14","DM3",1,1,0,"e adPN","19","Food"
-"15","VM3",2,2,0,"e adPN","18 and 20","Food"
-"16","DL4",1,1,0,"e adPN","21","Aversive/Only in Egg-laying?"
-"17","DL1",2,2,0,"l adPN","22",NA
-"18","DA3",2,2,0,"l adPN","23",NA
-"19","DC2",2,2,0,"l adPN","24","Aversive"
-"20","D",3,3,0,"l adPN","25","Unclear: several reported including aversion (Knaden), pheromones (Lebreton 2017), and yeast volatiles (Tsakiris et al. 2010)"
-"21","VA3",2,2,0,"l adPN","26",NA
-"22","DC3",3,3,0,"l adPN","27","Food"
-"23","VA1d",2,3,-1,"l adPN","28","Pheromonal"
-"24","VM7v",2,2,0,"l adPN","30",NA
-"25","VM7d",2,2,0,"l adPN","31","Food"
-"26","VM2",2,2,0,"l adPN","32","Food"
-"27","DM6",3,4,-1,"l adPN","33","Food"
-"28","VA1v",4,3,1,"l adPN","34",NA
-"29","VC4",3,3,0,"l adPN","35",NA
-"30","VM5d",4,5,-1,"l adPN","36","Food"
-"31","VM5v",3,2,1,"l adPN","37",NA
-"32","VC3l",4,3,1,"l adPN","38","Food"
-"33","DL2v",4,3,1,"l adPN","43",NA
-"34","DL2d",5,5,0,"l adPN","44","Food"
-"35","DA1",8,7,1,"lPN",NA,"Pheromonal"
-"36","DA2",5,5,0,"lPN",NA,"Aversive"
-"37","DL3",5,3,2,"lPN",NA,"Pheromonal"
-"38","DM1",1,1,0,"lPN",NA,"Food"
-"39","DM2",2,2,0,"lPN",NA,"Food"
-"40","DM5",3,2,1,"lPN",NA,"Aversive"
-"41","DP1l",1,1,0,"lPN",NA,"Egg-laying"
-"42","VA4",1,1,0,"lPN",NA,"Food"
-"43","VA5",3,3,0,"lPN",NA,NA
-"44","VA7m",3,3,0,"lPN",NA,NA
-"45","VC1",1,1,0,"lPN",NA,NA
-"46","VC2",1,1,0,"lPN",NA,"Unclear: possibly dietary antioxidants, Chin et al. sees aversion in egg-laying."
-"47","VM1",2,1,1,"lPN",NA,"Food"
-"48","lvVC5",2,3,-1,"lvPN",NA,"Egg-laying"
-"49","lvVM4",2,2,0,"lvPN",NA,NA
-"50","VC3m",3,3,0,"lvPN",NA,"Food"
-"51","DA4m",1,1,0,"vmPN",NA,NA
-"52","vDA1",1,1,0,"vPN",NA,"Pheromonal"
-"53","vDP1m",2,1,1,"vPN",NA,"Food"
-"54","vVA1d",1,1,0,"vPN",NA,"Pheromonal"
-"55","vVA1v",2,2,0,"vPN",NA,NA
-"56","vVL1",1,1,0,"vPN",NA,NA
-"57","vVL2a",2,2,0,"vPN",NA,"Food"
-"58","vVL2p",1,1,0,"vPN",NA,"Aversive heat or alcoholic fermentation, more probable latter"
-"59","V",1,1,0,"vpPN",NA,"Aversive"
-"60","VL1",1,1,0,"vpPN",NA,NA
+,glomerulus,FAFB.RHS,FIB,RHS.FIB,lineage,birth.order
+1,DP1m,1,1,0,e adPN,1
+2,DP1l,1,1,0,e adPN,2
+3,VL2p,1,1,0,e adPN,3
+4,DC4,1,1,0,e adPN,4
+5,VP3,1,1,0,e adPN,5
+6,DA4l,1,1,0,e adPN,6
+7,VM4,1,1,0,e adPN,7
+8,VC5,1,1,0,e adPN,8
+9,VA6,1,1,0,e adPN,9
+10,VL2a,1,1,0,e adPN,11
+11,DC1,1,1,0,e adPN,12
+12,VA7l,1,1,0,e adPN,14
+13,VA2,1,1,0,e adPN,15
+14,DM4,1,1,0,e adPN,16
+15,DL5,1,1,0,e adPN,17
+16,DM3,1,1,0,e adPN,19
+17,VM3,2,2,0,e adPN,18 and 20
+18,DL4,1,1,0,e adPN,21
+19,DL1,2,2,0,l adPN,22
+20,DA3,2,2,0,l adPN,23
+21,DC2,2,2,0,l adPN,24
+22,D,3,3,0,l adPN,25
+23,VA3,2,2,0,l adPN,26
+24,DC3,3,3,0,l adPN,27
+25,VA1d,2,3,-1,l adPN,28
+26,VM7v,2,2,0,l adPN,30
+27,VM7d,2,2,0,l adPN,31
+28,VM2,2,2,0,l adPN,32
+29,DM6,3,4,-1,l adPN,33
+30,VA1v,4,3,1,l adPN,34
+31,VC4,3,3,0,l adPN,35
+32,VM5d,4,5,-1,l adPN,36
+33,VM5v,3,2,1,l adPN,37
+34,VC3l,4,3,1,l adPN,38
+35,DL2v,4,3,1,l adPN,43
+36,DL2d,5,5,0,l adPN,44
+37,DA1,8,7,1,lPN,NA
+38,DA2,5,5,0,lPN,NA
+39,DL3,5,3,2,lPN,NA
+40,DM1,1,1,0,lPN,NA
+41,DM2,2,2,0,lPN,NA
+42,DM5,3,2,1,lPN,NA
+43,VA4,1,1,0,lPN,NA
+44,VA5,3,3,0,lPN,NA
+45,VA7m,3,3,0,lPN,NA
+46,VC1,1,1,0,lPN,NA
+47,VC2,1,1,0,lPN,NA
+48,VM1,2,1,1,lPN,NA
+49,lvVC5,2,3,-1,lvPN,NA
+50,lvVM4,2,2,0,lvPN,NA
+51,VC3m,3,3,0,lvPN,NA
+52,DA4m,1,1,0,adPN,?
+53,vDA1,1,1,0,vPN,NA
+54,vDP1m,2,1,1,vPN,NA
+55,vVA1d,1,1,0,vPN,NA
+56,vVA1v,2,2,0,vPN,NA
+57,vVL1,1,1,0,vPN,NA
+58,vVL2a,2,2,0,vPN,NA
+59,vVL2p,1,1,0,vPN,NA
+60,V,1,1,0,ilPN,NA
+61,VL1,1,1,0,ilPN,NA
