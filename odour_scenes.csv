@@ -75,9 +75,9 @@ DL5,green leaf volatiles,plant_matter,aversive
 VA5,2-methyl phenol,animal_matter,aversive
 VA7l,phenols,animal_matter,aversive
 VL2p,2-oxopentanoic acid,animal_matter,unclear
-VP1l,cold?,thermo_hygro,unclear
+VP1l,cool?,thermo_hygro,unclear
 VP1m,humid?,thermo_hygro,unclear
-VP1d,evaporation,thermo_hygro,unclear
+VP1d,evaporation?,thermo_hygro,unclear
 VP2,heating,thermo_hygro,unclear
 VP3,cooling,thermo_hygro,unclear
 VP4,dry air,thermo_hygro,unclear
