@@ -33,4 +33,9 @@ The file `FIB_mPNs.csv` lists all remaining multiglomerular PNs. Each of these b
 
 The file `odour_scenes.csv` includes for each glomerulus, the known ligand for those sensory neurons, which odour scene it relates to and the valence. Please not that some valences are not known, or clear in different contexts. This file is the same as figure S7 of [Bates &Schlegel, 2020](https://doi.org/10.1101/2020.01.19.911453).
 
-
+The file `uPNsdf_FIB_FAFB.csv` includes for each classical (i.e. canonical) uPNs a comparison of the number of individuals per type, between the right hemipshere of FAFB and FIB.
+* FAFB.RHS: number in FAFB.RHS
+* FIB: number in hemibrain
+* RHS.FIB: difference between FAFB.RHS and FIB
+* lineage: this column distinguishes between embryonic and larval PNs of the anterodorsal lineage (e adPN or l adPN)
+* birth order: the assignement of DP1l, VC5 and DC4 to e adPN is based on our data. So the placement in the birth order is putative, according to gaps in order as already described in the literature.
