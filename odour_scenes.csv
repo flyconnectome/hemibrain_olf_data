@@ -82,8 +82,6 @@ VP2,heating,thermo_hygro,unclear
 VP3,cooling,thermo_hygro,unclear
 VP4,dry air,thermo_hygro,unclear
 VP5,moist air,thermo_hygro,unclear
-DL6,unknown,unknown,unclear
-VM6,unknown,unknown,unclear
 VA7m,unknown,unknown,aversive
 DA4m,unknown,unknown,aversive
 VM7v,unknown,unknown,unclear
