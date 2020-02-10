@@ -7,7 +7,7 @@ It includes primary data such as classification of hemibrain olfactory and therm
 * hemibrain name (might be out of date)
 * tract
 * glomerulus for uni- or biglomerular PNs
-* PN_type: for `VP_PNs file.csv` only.
+* PN_type: for `FIB_VP_PNs.csv` file only.
 * lineage
 * new_type_name: shown in neuPrint as type, with a few exceptions: those in which the lineage is one of these 
 
@@ -21,7 +21,7 @@ VUMa2	>	G
 
 Until the neuPrint v1.1 is released, the type shown in neuPrint Explorer are the ones on the right.
 
-* valence: for `VP_PNs file.csv` only.
+* valence: for `FIB_VP_PNs.csv` file only.
 * type: fib or fafb
 * hemisphere: FAFB.RHS, FAFB.LHS or FIB
 
@@ -31,7 +31,8 @@ The file `FIB_VP_PNs.csv` lists all thermo- and hygrosensory PNs (uni-, bi- and 
 
 The file `FIB_mPNs.csv` lists all remaining multiglomerular PNs. Each of these bodyids was matched to a neuron we have traced in FAFB. The `new_type_name` starts with 'olfactory' if the best match in FAFB receives a majority (>70%) of olfactory input. If this is not the case, the `new_type_name` does not include 'olfactory, reflecting the fact that it receives a mix of olfactory and thermo/hygrosensory input. In the few cases where the FAFB match was not perfect, we follow the latter rule for type naming, so without specifying type of input.
 
-The file `odour_scenes.csv` includes for each glomerulus, the known ligand for those sensory neurons, which odour scene it relates to and the valence. Please not that some valences are not known, or clear in different contexts. This file is the same as figure S7 of [Bates &Schlegel, 2020](https://doi.org/10.1101/2020.01.19.911453).
+The file `odour_scenes.csv` includes for each glomerulus, the known ligand for those sensory neurons, which odour scene it relates to and the valence. For VP PNs (thermo/hygrosensory) there are more detailed valences in the `FIB_VP_PNs.csv` file.
+Please not that some valences are not known, or clear in different contexts. This file is the same as figure S7 of [Bates &Schlegel, 2020](https://doi.org/10.1101/2020.01.19.911453).
 
 The file `uPNsdf_FIB_FAFB.csv` includes for each classical (i.e. canonical) uPNs a comparison of the number of individuals per type, between the right hemipshere of FAFB and FIB.
 * FAFB.RHS: number in FAFB.RHS
