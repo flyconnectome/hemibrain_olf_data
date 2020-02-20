@@ -25,11 +25,11 @@ Until the neuPrint v1.1 is released, the type shown in neuPrint Explorer are the
 * type: fib or fafb
 * hemisphere: FAFB.RHS, FAFB.LHS or FIB
 
-The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs. Two neurons have a `?` after their glomerulus. This is because these are non-classical uPNs, i.e., their arborisation in the antennal lobe extends beyond the borders of one glomerulus, although the majority of their input is from that glomerulus only (see [Bates &Schlegel, 2020](https://doi.org/10.1101/2020.01.19.911453)). The best NBLAST match of these 2 hemibrain neurons in FAFB is not perfect, but good enought to putatively consider these 2 neurons as VC3l uPNs.
+The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs. 
 
 The file `FIB_VP_PNs.csv` lists all thermo- and hygrosensory PNs (uni-, bi- and nultiglomerular ones) as identified by Lisa Marin (for more info see [Marin 2020](https://www.biorxiv.org/content/10.1101/2020.01.20.912709v2). Some multiglomerular ones might also receive some olfactory input, but the expectation is that most input will be thermo-sensory. This is reflected in the type name - starts with 'VP'.
 
-The file `FIB_mPNs.csv` lists all remaining multiglomerular PNs. Each of these bodyids was matched to a neuron we have traced in FAFB. The `new_type_name` starts with 'olfactory' if the best match in FAFB receives a majority (>70%) of olfactory input. If this is not the case, the `new_type_name` does not include 'olfactory, reflecting the fact that it receives a mix of olfactory and thermo/hygrosensory input. In the few cases where the FAFB match was not perfect, we follow the latter rule for type naming, so without specifying type of input.
+The file `FIB_mPNs.csv` lists all remaining multiglomerular PNs. Each of these bodyids was matched to a neuron we have traced in FAFB. The `new_type_name` starts with 'olfactory' if the best match in FAFB receives a majority (>70%) of olfactory input. If this is not the case, the `new_type_name` does not include 'olfactory', reflecting the fact that it receives a mix of olfactory and thermo/hygrosensory input. In the few cases where the FAFB match was not perfect, we follow the latter rule for type naming, so without specifying type of input.
 
 The file `odour_scenes.csv` includes for each glomerulus, the known ligand for those sensory neurons, which odour scene it relates to and the valence. For VP PNs (thermo/hygrosensory) there are more detailed valences in the `FIB_VP_PNs.csv` file.
 Please not that some valences are not known, or clear in different contexts. This file is the same as figure S7 of [Bates &Schlegel, 2020](https://doi.org/10.1101/2020.01.19.911453).
