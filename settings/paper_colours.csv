@@ -103,3 +103,9 @@ pre,#D72000,synapse,red
 cell.type,#4D4D4D,misc,lightgrey
 output,#D72000,connection,red
 input,#132157,connection,navy
+MBON,#B32DB5,general MBON morphology color
+MBON,#0072B2,feedforward MBON color1
+MBON,#053CFF,feedforward MBON color2
+DAN,#A53600,general DAN morphology color
+atypicalPAM,#908827
+Heatmap,#0072B2,heatmap color1
