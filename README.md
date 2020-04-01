@@ -27,7 +27,7 @@ Until the neuPrint v1.1 is released, the type shown in neuPrint Explorer are the
 
 The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs. 
 
-The file `FIB_VP_PNs.csv` lists all thermo- and hygrosensory PNs (uni-, bi- and nultiglomerular ones) as identified by Lisa Marin (for more info see [Marin 2020](https://www.biorxiv.org/content/10.1101/2020.01.20.912709v2). Some multiglomerular ones might also receive some olfactory input, but the expectation is that most input will be thermo-sensory. This is reflected in the type name - starts with 'VP'.
+The file `FIB_VP_PNs.csv` lists all thermo- and hygrosensory PNs (uni-, bi- and multiglomerular ones) as identified by Lisa Marin (for more info see [Marin 2020](https://www.biorxiv.org/content/10.1101/2020.01.20.912709v2)). Some multiglomerular ones might also receive some olfactory input, but the expectation is that most input will be thermo-sensory. This is reflected in the type name - starts with 'VP'.
 
 The file `FIB_mPNs.csv` lists all remaining multiglomerular PNs. Each of these bodyids was matched to a neuron we have traced in FAFB. The `new_type_name` starts with 'olfactory' if the best match in FAFB receives a majority (>70%) of olfactory input. If this is not the case, the `new_type_name` does not include 'olfactory', reflecting the fact that it receives a mix of olfactory and thermo/hygrosensory input. In the few cases where the FAFB match was not perfect, we follow the latter rule for type naming, so without specifying type of input.
 
