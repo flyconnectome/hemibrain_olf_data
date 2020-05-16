@@ -1,4 +1,4 @@
-,skid,name,tract,glomerulus,lineage,new_type_name,type,hemisphere
+,bodyid,name,tract,glomerulus,lineage,new_type_name,type,hemisphere
 1,698508565,NA,lALT,V,ilPN,V ilPN,fib,FIB
 2,2064165421,lPNX_V,lALT,V,ilPN,V ilPN,fib,FIB
 3,5813039235,mPN1_DM6,mALT,DM6,adPN,DM6 adPN,fib,FIB
