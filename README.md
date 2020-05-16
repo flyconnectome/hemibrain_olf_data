@@ -3,7 +3,7 @@ Data on FIB hemibrain olfactory neurons that will be useful for analysis in upco
 
 It includes primary data such as classification of hemibrain olfactory and thermo/hygrosensory (VP) uniglomerular projection neurons (uPNs) and multiglomerular ones, and comparison of certain features with FAFB.
 
-* bodyid, here named as skid
+* bodyid
 * hemibrain name (might be out of date)
 * tract
 * glomerulus for uni- or biglomerular PNs
