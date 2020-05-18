@@ -1,4 +1,4 @@
-,skid,name,glomerulus,PN_type,tract,lineage,new_type_name,valence,type,hemisphere
+,bodyid,name,glomerulus,PN_type,tract,lineage,new_type_name,valence,type,hemisphere
 1,1639243580,mPN_VP1d,VP1d+,uPN,dlALT,ilvPN,VP1d+ ilvPN,hygrosensory,fib,FIB
 2,1639234609,mPN_VP1d,VP1d+,uPN,dlALT,ilvPN,VP1d+ ilvPN,hygrosensory,fib,FIB
 3,1727979406,lPN2?,VP1d + VP4,biPN,lALT,lPN,VP1d + VP4 lPN,hygrosensory,fib,FIB
