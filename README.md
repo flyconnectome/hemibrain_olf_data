@@ -10,6 +10,7 @@ It includes primary data such as classification of hemibrain olfactory and therm
 * PN_type: for `FIB_VP_PNs.csv` file only.
 * lineage
 * new_type_name: shown in neuPrint as type, with a few exceptions: those in which the lineage is one of these 
+* fafb_type: for thermo/hygrosensory (VP) projection neurons, based on typing of FAFB matches in [Marin 2020](https://www.biorxiv.org/content/10.1101/2020.01.20.912709v2))
 
 mdPN	> A
 lvPN2	>	B
