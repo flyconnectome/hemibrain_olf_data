@@ -137,11 +137,10 @@
 136,481268653,mlPNX_VM2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
 137,5812982656,mPNX,t-mALT,mdPN,olfactory multi mdPN t-mALT,,fib,FIB
 138,1702306047,t2PN1,t-mALT,ilPN,olfactory multi ilPN t-mALT,,fib,FIB
-139,1978573010,t2PN1?,t-mALT,lPN,olfactory multi lPN t-mALT,,fib,FIB
-140,1661769627,t3PN1_1(AMVF2)_R,t3ALT,lPN,olfactory multi lPN t3ALT,VC5++ lPN1,fib,FIB
-141,1755556277,t3PN1_2(AMVF2)_R,t3ALT,lPN,olfactory multi lPN t3ALT,VC5++ lPN1,fib,FIB
-142,1316245799,t4PN1,t-mALT,dpPN,olfactory multi dpPN t-mALT,,fib,FIB
-143,417199910,mPNX(ALlv1)_R,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
-144,5812995298,NA,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
-145,1887872301,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
-146,1888213190,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
+139,1661769627,t3PN1_1(AMVF2)_R,t3ALT,lPN,olfactory multi lPN t3ALT,VC5++ lPN1,fib,FIB
+140,1755556277,t3PN1_2(AMVF2)_R,t3ALT,lPN,olfactory multi lPN t3ALT,VC5++ lPN1,fib,FIB
+141,1316245799,t4PN1,t-mALT,dpPN,olfactory multi dpPN t-mALT,,fib,FIB
+142,417199910,mPNX(ALlv1)_R,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
+143,5812995298,NA,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
+144,1887872301,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
+145,1888213190,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
