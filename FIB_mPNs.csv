@@ -105,42 +105,41 @@
 104,104,1570685224,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
 105,105,1322353824,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
 106,106,603349484,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-107,107,975457916,mlPN2,mlALT,v1PN,multi v1PN mlALT,DA2++ v1PN,fib,FIB
-108,108,635407942,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-109,109,760250272,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-110,110,5813071409,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-111,111,1570685033,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-112,112,761938645,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-113,113,605050789,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-114,114,480927537,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-115,115,541632990,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-116,116,791298858,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-117,117,729544359,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-118,118,5813045696,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-119,119,698526273,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-120,120,759922408,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-121,121,760250511,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-122,122,5813090752,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-123,123,1570684665,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-124,124,1571025824,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-125,125,5813054911,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-126,126,760264077,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-127,127,1819326555,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-128,128,729219639,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-129,129,610274029,mlPN3,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-130,130,610274046,mlPN3,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-131,131,1415825344,mlPN3,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-132,132,637462647,NA,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-133,133,792616185,mlPN1_DP1l,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-134,134,5813034081,mlPN2_DP1m,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-135,135,1694850602,mlPN2_VM2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-136,136,481268653,mlPNX_VM2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
-137,137,5812982656,mPNX,t-mALT,mdPN,olfactory multi mdPN t-mALT,,fib,FIB
-138,138,1702306047,t2PN1,t-mALT,ilPN,olfactory multi ilPN t-mALT,,fib,FIB
-139,139,1661769627,t3PN1_1(AMVF2)_R,t3ALT,l2PN,olfactory multi l2PN t3ALT,VC5++ lPN1,fib,FIB
-140,140,1755556277,t3PN1_2(AMVF2)_R,t3ALT,l2PN,olfactory multi l2PN t3ALT,VC5++ lPN1,fib,FIB
-141,141,1316245799,t4PN1,t-mALT,dpPN,olfactory multi dpPN t-mALT,,fib,FIB
-142,142,417199910,mPNX(ALlv1)_R,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
-143,143,5812995298,NA,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
-144,144,1887872301,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
-145,145,1888213190,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
+107,108,635407942,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+108,109,760250272,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+109,110,5813071409,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+110,111,1570685033,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+111,112,761938645,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+112,113,605050789,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+113,114,480927537,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+114,115,541632990,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+115,116,791298858,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+116,117,729544359,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+117,118,5813045696,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+118,119,698526273,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+119,120,759922408,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+120,121,760250511,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+121,122,5813090752,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+122,123,1570684665,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+123,124,1571025824,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+124,125,5813054911,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+125,126,760264077,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+126,127,1819326555,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+127,128,729219639,mlPN2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+128,129,610274029,mlPN3,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+129,130,610274046,mlPN3,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+130,131,1415825344,mlPN3,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+131,132,637462647,NA,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+132,133,792616185,mlPN1_DP1l,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+133,134,5813034081,mlPN2_DP1m,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+134,135,1694850602,mlPN2_VM2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+135,136,481268653,mlPNX_VM2,mlALT,v1PN,olfactory multi v1PN mlALT,,fib,FIB
+136,137,5812982656,mPNX,t-mALT,mdPN,olfactory multi mdPN t-mALT,,fib,FIB
+137,138,1702306047,t2PN1,t-mALT,ilPN,olfactory multi ilPN t-mALT,,fib,FIB
+138,139,1661769627,t3PN1_1(AMVF2)_R,t3ALT,l2PN,olfactory multi l2PN t3ALT,VC5++ lPN1,fib,FIB
+139,140,1755556277,t3PN1_2(AMVF2)_R,t3ALT,l2PN,olfactory multi l2PN t3ALT,VC5++ lPN1,fib,FIB
+140,141,1316245799,t4PN1,t-mALT,dpPN,olfactory multi dpPN t-mALT,,fib,FIB
+141,142,417199910,mPNX(ALlv1)_R,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
+142,143,5812995298,NA,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
+143,144,1887872301,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
+144,145,1888213190,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
