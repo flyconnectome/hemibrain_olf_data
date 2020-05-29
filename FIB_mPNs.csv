@@ -143,5 +143,5 @@ X,bodyid,name,tract,lineage,new_type_name,fafb_type,type,hemisphere
 143,5812995298,NA,mALT,lv1PN,olfactory multi lv1PN mALT,,fib,FIB
 144,1887872301,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
 145,1888213190,mPNX,mALT,adPN,multi adPN mALT,,fib,fib
-146,731690040,(PVM01)_L,,dpPN,M_dpPNt5,,fib,fib
-147,1733370882,PVM01g_pct(PVM01)_R,,dpPN,M_dpPNt5,,fib,fib
+146,731690040,(PVM01)_L,t-lALT,dpPN,M_dpPNt5,,fib,fib
+147,1733370882,PVM01g_pct(PVM01)_R,t-lALT,dpPN,M_dpPNt5,,fib,fib
