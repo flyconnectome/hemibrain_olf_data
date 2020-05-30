@@ -1,11 +1,11 @@
 ,bodyid,name,glomerulus,PN_type,tract,lineage,new_type_name,fafb_type,valence,type,hemisphere
-1,1639243580,mPN_VP1d,VP1d+,uPN,dALT,ilvPN,VP1d+ ilvPN,VP1d ilvPN,hygrosensory,fib,FIB
-2,1639234609,mPN_VP1d,VP1d+,uPN,dALT,ilvPN,VP1d+ ilvPN,VP1d ilvPN,hygrosensory,fib,FIB
+1,1639243580,mPN_VP1d,VP1d+,uPN,dALT,il2PN,VP1d+ il2PN,VP1d il2PN,hygrosensory,fib,FIB
+2,1639234609,mPN_VP1d,VP1d+,uPN,dALT,il2PN,VP1d+ il2PN,VP1d il2PN,hygrosensory,fib,FIB
 3,1727979406,l2PN2?,VP1d + VP4,biPN,lALT,l2PN,VP1d + VP4 l2PN,VP1d+VP4 l2PN1,hygrosensory,fib,FIB
 4,5901222731,l2PN4?,VP1d + VP4,biPN,lALT,l2PN,VP1d + VP4 l2PN,VP1d+VP4 l2PN2,hygrosensory,fib,FIB
 5,2065197353,l2PNX,VP3 + VP5,biPN,t10-lALT,l2PN,VP3 + VP5 l2PN,VP5+VP3 l2PN,thermohygro,fib,FIB
 6,2038617453,l2PNX,VP5 + VP2,biPN,t10-lALT,l2PN,VP5 + VP2 l2PN,VP5+VP2 l2PN,thermohygro,fib,FIB
-7,2069644133,l2PNX,VP5+,uPN,t10-lALT,l2PN,VP5+ l2PN,VP5 l2PN,hygrosensory,fib,FIB
+7,2069644133,l2PNX,VP5+,uPN,t10-lALT,l2PN,VP5+ l2PN,VP5+ l2PN,hygrosensory,fib,FIB
 8,1225100939,l2PNX,VP2 + VC5,biPN,lALT,l2PN,VP2 + VC5 l2PN,VP2+VC5 l2PN,thermosensory,fib,FIB
 9,1788676257,l2PNX,VP3+,uPN,t10-lALT,l2PN,VP3+ l2PN,VP3+ l2PN2,thermosensory,fib,FIB
 10,5813069447,l2PNX,VP2,uPN,lALT,l2PN,VP2 l2PN,VP2 l2PN,thermosensory,fib,FIB
