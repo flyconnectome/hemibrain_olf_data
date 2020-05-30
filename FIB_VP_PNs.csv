@@ -12,35 +12,35 @@
 11,5813056072,l2PN1_VP1m,VP1m,uPN,lALT,l2PN,VP1m l2PN,VP1m l2PN,hygrosensory,fib,FIB
 12,5813063239,ml2PNX,VP5+ and SEZ,mPN,mALT,adPN,VP multi adPN mALT,VP5+SEZ adPN,hygrosensory,fib,FIB
 13,1974846717,mPNX,VP2+ and SEZ,mPN,mALT,lvPN,VP1m + VP2 lvPN,VP2+SEZ lvPN2,thermohygro,fib,FIB
-14,1881401277,mPNX,VP2+ and SEZ,mPN,mALT,lvPN,VP1m + VP2 lvPN,VP2+SEZ lvPN2,thermohygro,fib,FIB
+14,1881401277,mPNX,VP2+ and SEZ,biPN,mALT,lvPN,VP1m + VP2 lvPN,VP1m+VP2 lvPN1,thermohygro,fib,FIB
 15,1943811736,mPNX,VP1m + VP2,biPN,mALT,lvPN,VP1m + VP2 lvPN,VP1m+VP2 lvPN1,thermohygro,fib,FIB
 16,1881059780,mPNX,VP1m + VP2,biPN,mALT,lvPN,VP1m + VP2 lvPN,VP1m+VP2 lvPN1,thermohygro,fib,FIB
 17,1943812176,mPNX,VP1m + VP2,biPN,mALT,lvPN,VP1m + VP2 lvPN,VP1m+VP2 lvPN1,thermohygro,fib,FIB
-18,1912777226,mPNX,VP2 + VP5,biPN,mALT,lvPN,VP multi lvPN mALT,VP2+VP5 lvPN,thermohygro,fib,FIB
-19,5812996748,mPNX,VP1l+,mPN,mALT,lvPN,VP multi lvPN mALT,VP1l+ lvPN1,thermosensory,fib,FIB
-20,1858901026,mPNX,VP2+,mPN,mALT,adPN,VP multi adPN mALT,VP2+ adPN,thermosensory,fib,FIB
+18,1912777226,mPNX,VP2 + VP5,mPN,mALT,lvPN,VP multi lvPN mALT,VP2+VP5 lvPN,thermohygro,fib,FIB
+19,5812996748,mPNX,VP1l+,uPN,mALT,lvPN,VP multi lvPN mALT,VP1l+ lvPN1,thermosensory,fib,FIB
+20,1858901026,mPNX,VP2+,uPN,mALT,adPN,VP multi adPN mALT,VP2+ adPN,thermosensory,fib,FIB
 21,850717220,mPNX,VP1l + VP3,biPN,mALT,ilPN,VP1l + VP3 ilPN,VP1l+VP3 ilPN,thermosensory,fib,FIB
-22,509626405,mPNX,VP1l+,mPN,mALT,lvPN,VP multi lvPN mALT,VP1l+ lvPN1,thermosensory,fib,FIB
-23,850708783,mPNX,VP2 + VP5,biPN,mALT,lvPN,VP multi lvPN mALT,VP2+VP5 lvPN,thermohygro,fib,FIB
+22,509626405,mPNX,VP1l+,uPN,mALT,lvPN,VP multi lvPN mALT,VP1l+ lvPN1,thermosensory,fib,FIB
+23,850708783,mPNX,VP2 + VP5,mPN,mALT,lvPN,VP multi lvPN mALT,VP2+VP5 lvPN,thermohygro,fib,FIB
 24,603785283,mPNX,VP1l + VP3,biPN,mALT,ilPN,VP1l + VP3 ilPN,VP1l+VP3 ilPN,thermosensory,fib,FIB
 25,1975187675,mPNX,VP1m + VP2,biPN,mALT,lvPN,VP1m + VP2 lvPN,VP1m+VP2 lvPN1,thermohygro,fib,FIB
-26,1975187554,mPNX,VP2 + VP5,biPN,mALT,lvPN,VP multi lvPN mALT,VP2+VP5 lvPN,thermohygro,fib,FIB
+26,1975187554,mPNX,VP2 + VP5,mPN,mALT,lvPN,VP multi lvPN mALT,VP2+VP5 lvPN,thermohygro,fib,FIB
 27,1975878958,mPN_VP,VP2,uPN,mALT,adPN,VP2 adPN,VP2 adPN,thermosensory,fib,FIB
 28,5813040515,mPN_VP,VP3 + VP1l,biPN,mALT,ivPN,VP3 + VP1l ivPN,VP3+VP1l ivPN,thermosensory,fib,FIB
 29,2069648663,mPN_VP,VP1m + VP5,biPN,mALT,ilPN,VP1m + VP5 ilPN,VP1m+VP5 ilPN,hygrosensory,fib,FIB
 30,1944502935,mPN_VP,VP1m + VP5,biPN,mALT,ilPN,VP1m + VP5 ilPN,VP1m+VP5 ilPN,hygrosensory,fib,FIB
 31,1755556097,mPN1_VP1,VP3 + VP1l,biPN,mALT,ivPN,VP3 + VP1l ivPN,VP3+VP1l ivPN,thermosensory,fib,FIB
-32,1039237469,ml2PN2,VP1d + VP1l,biPN,mlALT,vPN,VP multi vPN mlALT,VP1d+VP1l vPN,thermohygro,fib,FIB
+32,1039237469,ml2PN2,VP1d + VP1l,mPN,mlALT,vPN,VP multi vPN mlALT,VP1d+VP1l vPN,thermohygro,fib,FIB
 33,543010474,ml2PNX,VP4+,uPN,mlALT,vPN,VP4 vPN,VP4+ vPN,hygrosensory,fib,FIB
 34,634759240,ml2PNX,VP4,uPN,mlALT,vPN,VP4 vPN,VP4 vPN,hygrosensory,fib,FIB
 35,663432544,ml2PNX_VP3,VP3,uPN,t10-mlALT,vPN,VP3 vPN,VP3 vPN,thermosensory,fib,FIB
-36,1789013008,mPNX(AMVF2)_R,VP4 + VP2 + VL1,mPN,t3-mALT,l2PN,VP multi l2PN t3ALT,VP4+VP2+VL1 l2PN,thermohygro,fib,FIB
-37,663787020,t2PN1,VP1m+,mPN,t2-mALT,lvPN,VP multi lvPNt2ALT,VP1m+ lvPN,thermohygro,fib,FIB
-38,664814903,t2PN1,VP1m + VP2,biPN,t2-mALT,lvPN,VP multi lvPN t2ALT,VP1m+VP2 lvPN2,thermohygro,fib,FIB
-39,5813077788,mPNX,VP2 and SEZ,mPN,mALT,lvPN,VP multi lvPN mALT,VP2+SEZ lvPN1,thermosensory,fib,FIB
+36,1789013008,mPNX(AMVF2)_R,VP4 + VP2 + VL1,biPN,t3-mALT,l2PN,VP4+VL1_l2PN,VP4+VP2+VL1 l2PN,thermohygro,fib,FIB
+37,663787020,t2PN1,VP1m+,uPN,t2-mALT,lvPN,VP multi lvPNt2ALT,VP1m+ lvPN,thermohygro,fib,FIB
+38,664814903,t2PN1,VP1m + VP2,uPN,t2-mALT,lvPN,VP multi lvPN t2ALT,VP1m+VP2 lvPN2,thermohygro,fib,FIB
+39,5813077788,mPNX,VP2 and SEZ,uPN,mALT,lvPN,VP multi lvPN mALT,VP2+SEZ lvPN1,thermosensory,fib,FIB
 40,2100010400,l2PNX(ALv2)_R,VP5 + VP2,biPN,t10-lALT,l2PN,VP5 + VP2 l2PN,VP5+VP2 l2PN,thermohygro,fib,FIB
 41,1883443112,l2PNX(ALv2)_R,VP3+,uPN,t10-lALT,l2PN,VP3+ l2PN,VP3+ l2PN1,thermosensory,fib,FIB
-42,2289223313,mPNX,VP1l+,mPN,mALT,lvPN,VP1l lvPN,VP1l+ lvPN1,thermosensory,fib,FIB
+42,2289223313,mPNX,VP1l+,uPN,mALT,lvPN,VP1l lvPN,VP1l+ lvPN1,thermosensory,fib,FIB
 43,1788680591,l2PNX,VP3+,mPN,t10-lALT,l2PN,multi l2PN t-lALT,VP3++ l2PN,thermosensory,fib,FIB
 44,1788685103,l2PNX,VC5+,mPN,t10-lALT,l2PN,multi l2PN t-lALT,VC5++ l2PN2,thermohygro,fib,FIB
 45,1102334088,NA,VP2+,mPN,lALT,lv2PN,multi lv2PN lALT,VP2++ lv2PN,thermosensory,fib,FIB
@@ -51,7 +51,6 @@
 50,819993149,mPNX,VP4+,mPN,mALT,lPN,multi lPN mALT,VP4++ lPN,hygrosensory,fib,FIB
 51,5812983053,ml2PN2,VP1d+,mPN,mlALT,vPN,multi vPN mlALT,VP1d++ vPN,hygrosensory,fib,FIB
 52,976830572,ml2PN2,VP1d+,mPN,mlALT,vPN,multi vPN mlALT,VP1d++ vPN,hygrosensory,fib,FIB
-53,947513805,ml2PN2,VP1m + VP1d,biPN,mlALT,vPN,multi vPN mlALT,VP1m+VP1d vPN,hygrosensory,fib,FIB
-54,1070613107,ml2PNX,VP1d + VP1l,biPN,mlALT,vPN,multi vPN mlALT,VP1d+VP1l vPN,hygrosensory,fib,FIB
+53,947513805,ml2PN2,VP1m + VP1d,mPN,mlALT,vPN,multi vPN mlALT,VP1m+VP1d vPN,hygrosensory,fib,FIB
+54,1070613107,ml2PNX,VP1d + VP1l,mPN,mlALT,vPN,multi vPN mlALT,VP1d+VP1l vPN,hygrosensory,fib,FIB
 55,975457916,ml2PN2,VP1d++,mPN,mlALT,vPN,multi vPN mlALT,DA2++ vPN,hygrosensory,fib,FIB
-56,1888178718,,VP5+,mPN,t9-lALT,lv2PN,multi lv2PN tALT,,hygrosensory,fib,FIB
