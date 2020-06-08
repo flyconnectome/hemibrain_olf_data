@@ -10,9 +10,9 @@ It includes primary data such as classification of hemibrain olfactory and therm
 * tract
 * glomerulus for uni- or biglomerular PNs
 * lineage
-* new_type_name: shown in neuPrint as type, with a few exceptions: those in which the lineage is one of these 
 * fafb_type: for thermo/hygrosensory (VP) projection neurons, based on typing of FAFB matches in [Marin 2020](https://www.biorxiv.org/content/10.1101/2020.01.20.912709v2))
 * hemisphere: FIB
+* valence: for VP PNs
 
 The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs. 
 
@@ -28,3 +28,5 @@ The file `uPNsdf_FIB_FAFB.csv` includes for each classical (i.e. canonical) uPNs
 * RHS.FIB: difference between FAFB.RHS and FIB
 * lineage: this column distinguishes between embryonic and larval PNs of the anterodorsal lineage (e adPN or l adPN)
 * birth order: the assignement of DP1l, VC5 and DC4 to e adPN is based on our data. So the placement in the birth order is putative, according to gaps in order as already described in the literature.
+
+The file `other_PNs.csv` lists non classical olfactory or thermo-hygro PNs, those that include SEZ innervation and almost bypass the AL or those that input onto the AL.
