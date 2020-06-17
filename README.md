@@ -14,7 +14,9 @@ It includes primary data such as classification of hemibrain olfactory and therm
 * hemisphere: FIB
 * valence: for VP PNs
 
-The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs. 
+The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs, on the right hemisphere. 
+
+The file `FIB_LHS_uPNs.csv` lists the identifiable uniglomerular olfactory uPNs, on the left hemisphere. The axon is truncated as it extends dorsally, and in some instances, the dendrites are also partially truncated.
 
 The file `FIB_VP_PNs.csv` lists all thermo- and hygrosensory PNs (uni-, bi- and multiglomerular ones) as identified by Lisa Marin (for more info see [Marin 2020](https://www.biorxiv.org/content/10.1101/2020.01.20.912709v2)). Some multiglomerular ones might also receive some olfactory input, but the expectation is that most input will be thermo-sensory. 
 
