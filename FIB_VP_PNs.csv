@@ -41,11 +41,11 @@
 40,2100010400,VP5+VP2_l2PN(t10ALT)_R,VP5+VP2_l2PN,biPN,biPN,t10-lALT,VP5 + VP2,l2PN,FIB,thermohygro,humid_heating
 41,1883443112,VP3+_l2PN(t10ALT)_R,VP3+_l2PN,uPN,uPN,t10-lALT,VP3+,l2PN,FIB,thermosensory,cooling
 42,2289223313,VP1l+_lvPN_R,VP1l+_lvPN,uPN,uPN,mALT,VP1l+,lvPN,FIB,thermosensory,cooling
-43,1788680591,M_l2PN10t18_R,M_l2PN10t18,mPN,mPN,t10-lALT,VP3++,l2PN,FIB,thermosensory,cooling_olf
-44,1788685103,M_l2PN10t18_R,M_l2PN10t18,mPN,mPN,t10-lALT,VC5+,l2PN,FIB,thermohygro,unknown
+43,1788680591,M_l2PN10t19_R,M_l2PN10t19,mPN,mPN,t10-lALT,VP3++,l2PN,FIB,thermosensory,cooling_olf
+44,1788685103,M_l2PN10t19_R,M_l2PN10t19,mPN,mPN,t10-lALT,VC5+,l2PN,FIB,thermohygro,unknown
 45,1630734360,M_lPNm11A_R,M_lPNm11A,mPN,mPN,mALT,VP4+,lPN,FIB,hygrosensory,dry_olf
 46,763730414,M_smPNm1_L,M_smPNm1,mPN,mPN,mALT,VP3+,smPN,FIB,thermosensory,cooling_olf
-47,5813083723,M_l2PNm23_R,M_l2PNm23,mPN,mPN,mALT,VP5+,l2PN,FIB,hygrosensory,humid_olf
+47,5813083723,M_l2PNm17_R,M_l2PNm17,mPN,mPN,mALT,VP5+,l2PN,FIB,hygrosensory,humid_olf
 48,819993149,M_lPNm11A_R,M_lPNm11A,mPN,mPN,mALT,VP4+,lPN,FIB,hygrosensory,dry_olf
 49,5812983053,M_vPNml60_R,M_vPNml60,mPN,mPN,mlALT,VP1d+,vPN,FIB,hygrosensory,evaporation_olf
 50,976830572,M_vPNml60_R,M_vPNml60,mPN,mPN,mlALT,VP1d++,vPN,FIB,hygrosensory,evaporation_olf
