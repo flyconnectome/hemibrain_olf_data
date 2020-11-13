@@ -6,7 +6,7 @@ It includes primary data such as classification of hemibrain olfactory and therm
 Hemibrain neurons are defined by a bodyid, accompanied by a name (instance name) and type.
 
 ## PN related files
-In addition to bodyid name and type, columns can include:
+In addition to bodyid, name and type, columns can include:
 
 * PN_type: uPN or mPN.
 * tract
