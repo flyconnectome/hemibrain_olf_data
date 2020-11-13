@@ -1,8 +1,9 @@
 # hemibrain_olf_data
 Data on FIB hemibrain olfactory neurons that will be useful for analysis in upcoming FIB hemibrain papers.
 
-It includes primary data such as classification of hemibrain olfactory and thermo/hygrosensory (VP) uniglomerular projection neurons (uPNs) and multiglomerular ones, and comparison of certain features with FAFB.
+It includes primary data such as classification of hemibrain olfactory and thermo/hygrosensory (VP) uniglomerular projection neurons (uPNs) and multiglomerular ones, and comparison of certain features with FAFB. It also includes the list of receptor neurons (RNs). 
 
+## PN related files
 * bodyid
 * name: instance name
 * type
@@ -32,3 +33,7 @@ The file `uPNsdf_FIB_FAFB.csv` includes for each classical (i.e. canonical) uPNs
 * birth order: the assignement of DP1l, VC5 and DC4 to e adPN is based on our data. So the placement in the birth order is putative, according to gaps in order as already described in the literature.
 
 The file `other_PNs.csv` lists non classical olfactory or thermo-hygro PNs, those that include SEZ innervation and almost bypass the AL or those that input onto the AL.
+
+## RN files
+The file `FIB_RNs.csv` lists all RNs. It includes name and type (as in neuPrint), glomerulus, laterality for the type (unilateral (U) or bilateral (B)), soma side (ipsilateral or contralateral) and modality (according to the glomerulus). The field 'notes' indicates 9 outlier or problematic RNs.
+The file `AL_gloms_RN_info.csv` lists for each glomerulus the receptor (as known as this time), the number of expected RNs for each type and its citation, the qualitative assessement of glomeruli truncation in the hemibrain dataset as well as RN fragmentation status.
