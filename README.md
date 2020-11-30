@@ -36,6 +36,7 @@ The file `uPNsdf_FIB_FAFB.csv` includes for each classical (i.e. canonical) uPNs
 The file `other_PNs.csv` lists non classical olfactory or thermo-hygro PNs, those that include SEZ innervation and almost bypass the AL or those that input onto the AL.
 
 ## RN related files
-The file `FIB_RNs.csv` lists all RNs. It includes name and type (as in neuPrint), glomerulus, laterality for the type (unilateral (U) or bilateral (B)), soma side (ipsilateral or contralateral) and modality (according to the glomerulus). The field 'notes' indicates 9 outlier or problematic RNs.
+The file `FIB_RNs.csv` lists all RNs. It includes name and type (as in neuPrint), glomerulus, laterality for the type (unilateral (U) or bilateral (B)), soma side (ipsilateral or contralateral) and modality (according to the glomerulus). For a subset of RNs, it also includes cable length (in micrometers) and presynapse numbers subsetted to the relevant glomerulus mesh (generated from RNs), as well as the non-subsetted presynapse numbers. 
+The field 'notes' indicates 7 outlier or problematic RNs.
 
 The file `AL_gloms_RN_info.csv` lists for each glomerulus the receptor (as known as this time), the number of expected RNs for each type and its citation, the qualitative assessement of glomeruli truncation in the hemibrain dataset as well as RN fragmentation status.
