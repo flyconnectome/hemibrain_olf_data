@@ -1,0 +1,307 @@
+bodyid,our_type,classification,description
+5813018460,il3LN6,il3_LN_broad_,"pair of keystone LNs coming from the GNG, matching LN6 type (Tanaka et al. 2012)"
+5901206553,il3LN6,il3_LN_broad_,"pair of keystone LNs coming from the GNG, matching LN6 type (Tanaka et al. 2012)"
+5813054773,l2LN18,l2_LN_broad_,only broad LN in the l2 hemilineage
+1702336197,l2LN19,l2_LN_sparse_,sparse LN innervating two main regions
+1793744512,l2LN19,l2_LN_sparse_,sparse LN innervating two main regions
+2007578488,l2LN20,l2_LN_sparse_bil,only two bilateral LNs in the l2 hemilineage
+2007578510,l2LN20,l2_LN_sparse_bil,only two bilateral LNs in the l2 hemilineage
+1976565858,l2LN21,l2_LN_sparse_,in morphology similar to the l2LN20 but it is not bilateral
+2101339904,l2LN22,l2_LN_sparse_,sparse LN innervating the VP Glom
+5813003258,l2LN22,l2_LN_sparse_,sparse LN innervating the VP Glom
+2069647778,l2LN23,l2_LN_sparse_,sparse LN innervating mainly the V Glom
+2069648213,l2LN23,l2_LN_sparse_,sparse LN innervating mainly the V Glom
+1670597533,lLN1_a,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813130064,lLN1_a,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1610530558,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1640887603,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1642623277,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813054622,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813054725,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813054777,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813069055,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813078440,lLN1_b,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1547454812,lLN1_c,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1578826464,lLN1_c,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1702651358,lLN1_c,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1824101645,lLN1_c,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813047691,lLN1_c,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+5813062199,lLN1_c,l_LN_broad_,broad LN belonging to the LN1 type (Tanaka et al. 2012)
+1825789179,lLN10,l_LN_regional_,unique regional LN
+1670278227,lLN11,l_LN_regional_,weak regional or sparse LNs with a similar split into two main branches close to the soma
+1979569670,lLN11,l_LN_sparse_,weak regional or sparse LNs with a similar split into two main branches close to the soma
+2040301572,lLN11,l_LN_regional_,weak regional or sparse LNs with a similar split into two main branches close to the soma
+1826445251,lLN12A,l_LN_regional_,regional LNs that innervate the same area of the AL
+1918565786,lLN12A,l_LN_regional_,regional LNs that innervate the same area of the AL
+1919208947,lLN12A,l_LN_regional_,regional LNs that innervate the same area of the AL
+1671270875,lLN12B,l_LN_sparse_,"sparse LNs that innervate the same are of the AL, have a small more densely innervated area"
+5812996027,lLN12B,l_LN_sparse_,"sparse LNs that innervate the same are of the AL, have a small more densely innervated area"
+1826825128,lLN13,l_LN_regional_,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL
+1887867926,lLN13,l_LN_sparse_,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL
+5901194966,lLN13,l_LN_sparse_,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL
+1702323388,lLN14,l_LN_sparse_,"very weakly innervating sparse LN, one half with bead-like structure"
+1951971057,lLN14,l_LN_sparse_,"very weakly innervating sparse LN, one half with bead-like structure"
+1824745150,lLN15,l_LN_regional_,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut"
+1887160257,lLN15,l_LN_regional_,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut"
+5812998538,lLN15,l_LN_regional_,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut"
+1702318692,lLN16A,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1732667174,lLN16A,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+2011308218,lLN16A,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1701965055,lLN16B,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1763360713,lLN16B,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1856820145,lLN16B,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1857485213,lLN16B,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1887168462,lLN16B,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1887518225,lLN16B,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1918207300,lLN16B,l_LN_sparse_,"sparse LNs that innervate the same area of the AL, very spread out"
+1918173122,lLN17,l_LN_sparse_,sparse LNs that innervate mostly the VA1 with additional weak neurites in other areas of AL
+2013333009,lLN17,l_LN_sparse_,sparse LNs that innervate mostly the VA1 with additional weak neurites in other areas of AL
+1670287030,lLN2F_a,l_LN_broad_,broad LNs with full/dense neurites belonging to the LN2 type (Tanaka et al. 2012)
+5901218894,lLN2F_a,l_LN_broad_,broad LNs with full/dense neurites belonging to the LN2 type (Tanaka et al. 2012)
+1640909284,lLN2F_b,l_LN_broad_,broad LNs with full/dense neurites belonging to the LN2 type (Tanaka et al. 2012)
+5813024698,lLN2F_b,l_LN_broad_,broad LNs with full/dense neurites belonging to the LN2 type (Tanaka et al. 2012)
+1670916819,lLN2P_a,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1857799548,lLN2P_a,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+2041621893,lLN2P_a,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+2135408892,lLN2P_a,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1671257931,lLN2P_b,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1701947337,lLN2P_b,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1946178096,lLN2P_b,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813039309,lLN2P_b,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1639886198,lLN2P_c,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1640555311,lLN2P_c,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1762704980,lLN2P_c,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+1858171556,lLN2P_c,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+2105086391,lLN2P_c,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813132949,lLN2P_c,l_LN_patchy_,patchy LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813024339,lLN2R_a,l_LN_regional_,regional LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813034531,lLN2R_a,l_LN_regional_,regional LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813075196,lLN2R_a,l_LN_regional_,regional LNs belonging to the LN2 type (Tanaka et al. 2012)
+1702305987,lLN2R_b,l_LN_regional_,regional LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813076969,lLN2R_b,l_LN_regional_,regional LNs belonging to the LN2 type (Tanaka et al. 2012)
+1640922754,lLN2S,l_LN_broad_,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1670627928,lLN2S,l_LN_broad_,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1702306037,lLN2S,l_LN_broad_,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1732995501,lLN2S,l_LN_broad_,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1762359683,lLN2S,l_LN_regional_,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813069085,lLN2S,l_LN_broad_,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1672320134,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1730327790,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1762354941,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1916800213,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813032595,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813054726,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813055277,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813056598,lLN2T_a,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1640572741,lLN2T_b,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813034493,lLN2T_b,l_LN_regional_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1671292719,lLN2T_c,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1704347707,lLN2T_c,l_LN_broad_,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1667251683,lLN2T_d,l_LN_regional_bil,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1669924220,lLN2T_d,l_LN_regional_bil,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1640922516,lLN2T_e,l_LN_broad_bil,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+1699974843,lLN2T_e,l_LN_broad_bil,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012)
+2041993364,lLN7,l_LN_regional_bil,unique regional bilateral LN with a thick neurite towards the GNG
+1795734228,lLN8,l_LN_sparse_bil,sparse bilateral LNs with dense innervation in DL2 and DP1 Glom
+1885765762,lLN8,l_LN_sparse_bil,sparse bilateral LNs with dense innervation in DL2 and DP1 Glom
+1857485083,lLN9,l_LN_sparse_bil,sparse bilateral LNs with dense innervation in VA1 Glom
+5901197989,lLN9,l_LN_sparse_bil,sparse bilateral LNs with dense innervation in VA1 Glom
+2039273648,v2LN2,v2_LN_sparse_,ventral LNs belonging to the LN2 type (Tanaka et al. 2012)
+2132374646,v2LN2,v2_LN_sparse_,ventral LNs belonging to the LN2 type (Tanaka et al. 2012)
+5813102390,v2LN2,v2_LN_sparse_,ventral LNs belonging to the LN2 type (Tanaka et al. 2012)
+1671620613,v2LN30,v2_LN_regional_,unique regional LN
+1730979793,v2LN31,v2_LN_sparse_bil,unique sparse bilateral LN
+1820721562,v2LN32,v2_LN_sparse_bil,unique sparse bilateral LN
+1728315957,v2LN33,v2_LN_sparse_bil,sparse bilateral LN with strong innervation in VL1 Glom and additional neurites in the same area of AL
+1913480167,v2LN33,v2_LN_sparse_bil,sparse bilateral LN with strong innervation in VL1 Glom and additional neurites in the same area of AL
+5813078133,v2LN33,v2_LN_sparse_bil,sparse bilateral LN with strong innervation in VL1 Glom and additional neurites in the same area of AL
+1759674685,v2LN34A,v2_LN_regional_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1857830017,v2LN34A,v2_LN_regional_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+5812990165,v2LN34A,v2_LN_regional_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+5901198734,v2LN34A,v2_LN_regional_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1856466057,v2LN34B,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1888860489,v2LN34B,v2_LN_regional_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+5813002250,v2LN34B,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+5813034306,v2LN34B,v2_LN_regional_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1915837804,v2LN34C,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+2071677193,v2LN34C,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1826458709,v2LN34D,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1915159759,v2LN34D,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+5813057474,v2LN34D,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1670636531,v2LN34E,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1794080892,v2LN34E,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1854419820,v2LN34E,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1856129403,v2LN34E,v2_LN_sparse_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1668275074,v2LN34F,v2_LN_regional_bil,regional or sparse bilateral LNs with neurites in similar region of AL
+1668944259,v2LN35,v2_LN_regional_bil,regional bilateral LNs innervating similar region of AL
+1733056086,v2LN35,v2_LN_regional_bil,regional bilateral LNs innervating similar region of AL
+1764388538,v2LN35,v2_LN_regional_bil,regional bilateral LNs innervating similar region of AL
+5813054716,v2LN36,v2_LN_sparse_,unique sparse LN
+1916485259,v2LN37,v2_LN_regional_,unique regional LN
+1883443069,v2LN38,v2_LN_sparse_bil,"sparse bilateral LNs innervating the VP Glom, mainly VP5"
+2038280489,v2LN38,v2_LN_sparse_bil,"sparse bilateral LNs innervating the VP Glom, mainly VP5"
+5813040492,v2LN38_L,v2contra_LN_sparse_bil,"sparse bilateral LNs innervating the VP Glom, mainly VP5, from the LH"
+1887177026,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
+2069989274,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
+2100666288,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
+2256863785,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
+1915155414,v2LN39B,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
+2008926220,v2LN39B,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
+1700644008,v2LN3A,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
+1730651751,v2LN3A,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
+1730996778,v2LN3A,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
+5901196806,v2LN3A,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
+1888199872,v2LN3B,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
+1920590638,v2LN3B,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
+5813034455,v2LN3B,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
+1883106059,v2LN4,v2_LN_sparse_bil,sparse bilateral LNs belonging to the LN4 type (Tanaka et al. 2012)
+1883442994,v2LN4,v2_LN_sparse_bil,sparse bilateral LNs belonging to the LN4 type (Tanaka et al. 2012)
+5813108151,v2LN4,v2_LN_sparse_bil,sparse bilateral LNs belonging to the LN4 type (Tanaka et al. 2012)
+1728294045,v2LN40,v2_LN_sparse_bil,sparse bilateral LNs main innervation in  VL1 Glom
+1728294318,v2LN40,v2_LN_sparse_bil,sparse bilateral LNs main innervation in  VL1 Glom
+1852754119,v2LN40,v2_LN_sparse_bil,sparse bilateral LNs main innervation in  VL1 Glom
+1887837668,v2LN40,v2_LN_sparse_bil,sparse bilateral LNs main innervation in  VL1 Glom
+1888860914,v2LN40,v2_LN_sparse_bil,sparse bilateral LNs main innervation in  VL1 Glom
+1947188040,v2LN40,v2_LN_sparse_bil,sparse bilateral LNs main innervation in  VL1 Glom
+1947192569,v2LN40,v2_LN_sparse_bil,sparse bilateral LNs main innervation in  VL1 Glom
+2101015643,v2LN41,v2_LN_sparse_bil,sparse bilateral LNs innervating the VP Glom
+5901199598,v2LN41,v2_LN_sparse_bil,sparse bilateral LNs innervating the VP Glom
+1758323593,v2LN42,v2_LN_sparse_bil,sparse bilateral LNs innervating the VL1 and VL2p Glom
+1977881942,v2LN42,v2_LN_sparse_bil,sparse bilateral LNs innervating the VL1 and VL2p Glom
+1915155348,v2LN43,v2_LN_sparse_bil,"sparse bilateral LNs innervating the same of AL, partially with bead-like neurites"
+1947563799,v2LN43,v2_LN_sparse_bil,"sparse bilateral LNs innervating the same of AL, partially with bead-like neurites"
+1978261876,v2LN43,v2_LN_sparse_bil,"sparse bilateral LNs innervating the same of AL, partially with bead-like neurites"
+1790364325,v2LN44,v2_LN_sparse_bil,sparse bilateral LNs innervating mainly VP and VL1 Glom with additional long neurites to other areas of AL
+5812995404,v2LN44,v2_LN_sparse_bil,sparse bilateral LNs innervating mainly VP and VL1 Glom with additional long neurites to other areas of AL
+1946851619,v2LN45,v2_LN_sparse_bil,"sparse bilateral LNs innervating mainly VP, VC2 and VL1 Glom"
+2008921702,v2LN45,v2_LN_sparse_bil,"sparse bilateral LNs innervating mainly VP, VC2 and VL1 Glom"
+5813034203,v2LN45,v2_LN_sparse_bil,"sparse bilateral LNs innervating mainly VP, VC2 and VL1 Glom"
+1883788812,v2LN50,v2_LN_sparse_,unique LN
+1885109710,v2LN46,v2_LN_sparse_bil,"sparse bilateral LNs, main innervation of DP1l Glom"
+1885782720,v2LN46,v2_LN_sparse_bil,"sparse bilateral LNs, main innervation of DP1l Glom"
+1916157698,v2LN46,v2_LN_sparse_bil,"sparse bilateral LNs, main innervation of DP1l Glom"
+1916152641,v2LN47,v2_LN_sparse_bil,sparse bilatera LNs with main innervation in VL2p Glom
+2040270763,v2LN47,v2_LN_sparse_bil,sparse bilatera LNs with main innervation in VL2p Glom
+2071305421,v2LN47,v2_LN_sparse_bil,sparse bilatera LNs with main innervation in VL2p Glom
+5813002313,v2LN48,v2_LN_sparse_bil,unique sparse bilateral LN
+2101348562,v2LN49,v2_LN_sparse_,sparse LNs innervating the VP Glom
+2132375072,v2LN49,v2_LN_sparse_,sparse LNs innervating the VP Glom
+1883102183,v2LN5,v2_LN_sparse_bil,sparse bilateral LNs belonging to the LN5 type (Tanaka et al. 2012)
+5813066684,v2LN5,v2_LN_sparse_bil,sparse bilateral LNs belonging to the LN5 type (Tanaka et al. 2012)
+1761345315,vLN24,v_LN_regional_,"regional almost broad LNs, strongly innervating the V Glom"
+1763037543,vLN24,v_LN_regional_,"regional almost broad LNs, strongly innervating the V Glom"
+1794037618,vLN25,v_LN_regional_,"regional LNs innervating the same area of the AL, strongly innervating the VL2 and DP1l Glom"
+5813018729,vLN25,v_LN_regional_,"regional LNs innervating the same area of the AL, strongly innervating the VL2 and DP1l Glom"
+5813071384,vLN26,v_LN_sparse_bil,"only bilateral LN in the v lineage, neurites towards the GNG"
+5813018847,vLN27,v_LN_sparse_,"sparse LN innervating mainly VC5 Glom, unique additiona neurite"
+2101391269,vLN28,v_LN_sparse_,"sparse LN innervating mainly VC5 Glom, unique additiona neurite"
+5813055448,vLN29,v_LN_sparse_,"sparse LN innervating mainly VC5 Glom, unique additiona neurite"
+1670265095,LN,contra_LN_regional_bil,truncated but high confidence in identification
+1670273743,LN,_LN_regional_,truncated but high confidence in identification
+5813070873,LN,contra_LN_regional_bil,truncated but high confidence in identification
+1697949713,LN,contra_LN_regional_bil,truncated but high confidence in identification
+1795100203,LN_L,contra_LN_regional_bil,truncated but high confidence in identification
+1918911323,LN,contra_LN_regional_bil,truncated but high confidence in identification
+1702668580,LN,_LN_regional_,truncated but high confidence in identification
+1671957122,LN,_LN_sparse_,truncated but high confidence in identification
+1887539871,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1729991014,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1795130353,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1758993191,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1759329458,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1854117634,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1883788284,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1946850979,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1794447723,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+2011994858,LN,_LN_sparse_,truncated but high confidence in identification
+1727975215,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1920608073,LN,_LN_sparse_,truncated but high confidence in identification
+1699029525,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5813086007,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1761354107,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1790709210,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1759342056,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1727988111,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1730754676,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1788689504,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+2038617515,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5813039491,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1794076703,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1821740100,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1851816763,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1672316122,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1758996932,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1762143995,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1788688997,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1790368589,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1825422195,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1976547491,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+2044445714,LN,_LN_sparse_,truncated but high confidence in identification
+5813005499,LN,_LN__,truncated but high confidence in identification
+5901194590,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5901204007,LN_L,contra_LN__,truncated but high confidence in identification
+1788680513,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1789017486,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1794189491,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1823760486,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1824127525,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1851747950,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1882791848,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1883801148,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+2007245491,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+2132413349,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5901199825,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1666574199,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1671297064,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1729321593,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1731109531,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1758337351,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1759019221,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1759329294,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1763167252,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1788680762,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1820721367,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1821062848,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+2197832837,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+2227162831,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5813103363,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1698286329,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1759001329,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1788361337,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1883443080,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1977877706,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+2106843651,LN,_LN_sparse_,truncated but high confidence in identification
+2164751562,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+2223804634,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5812995192,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5812996749,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5812997518,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5901203730,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1636238560,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+1698679708,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1758664678,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1759682777,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1760425769,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1915609310,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+5813057637,LN,contra_LN_sparse_bil,truncated but high confidence in identification
+5813061328,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1606205362,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1790027811,LN,contra_LN__,truncated but high confidence in identification
+1850793439,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+1850793623,LN_L,contra_LN_sparse_bil,truncated but high confidence in identification
+7112614585,LN,contra_LN__,truncated but high confidence in identification
+1669376525,LN_L,_LN__,truncated but high confidence in identification
+1671085318,LN,_LN__,truncated but high confidence in identification
+1698347801,LN,_LN__,truncated but high confidence in identification
+1699029767,LN,_LN__,truncated but high confidence in identification
+1699707102,LN,_LN__,truncated but high confidence in identification
+1729382486,LN,_LN__,truncated but high confidence in identification
+1729736878,LN,_LN__,truncated but high confidence in identification
+1791797463,LN,_LN__,truncated but high confidence in identification
+1792492536,LN,_LN__,truncated but high confidence in identification
+1883788862,LN_L,contra_LN__,truncated but high confidence in identification
+1888658233,LN_L,_LN_patchy_,truncated but high confidence in identification
+5813015889,LN,_LN__,truncated but high confidence in identification
+5813049168,LN,_LN__,truncated but high confidence in identification
+5813054969,LN,_LN__,truncated but high confidence in identification
+5813069064,LN,_LN__,truncated but high confidence in identification
