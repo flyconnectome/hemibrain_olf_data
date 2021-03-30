@@ -1,9 +1,11 @@
 # hemibrain_olf_data
 Data on FIB hemibrain olfactory neurons that will be useful for analysis in upcoming FIB hemibrain papers. The hemibrain dataset is described in [Scheffer et al, 2020](https://doi.org/10.7554/eLife.57443).
 
-It includes primary data such as classification of hemibrain olfactory and thermo/hygrosensory (VP) uniglomerular projection neurons (uPNs) and multiglomerular ones, and comparison of certain features with FAFB. It also includes the list of receptor neurons (RNs). 
+It includes primary data such as classification of hemibrain olfactory and thermo/hygrosensory (VP) uniglomerular projection neurons (uPNs) and multiglomerular ones, and comparison of certain features with FAFB. It also includes the list of receptor neurons (RNs).
 
-Hemibrain neurons are defined by a bodyid, accompanied by a name (instance name) and type.
+Hemibrain neurons are defined by a body ID, accompanied by a name (instance name) and type.
+
+_Note that data in this repository has diverged from hemibrain v1.2 (and earlier versions) on neuPrint. Three glomeruli have been corrected: VC5->VM6, VC3l->VC3 and VC3m->VC5. This affects names (instance) and types of RNs and PNs. Neurons can still be unambiguously identified via their body IDs. These changes will be merged into hemibrain with release of v1.3._
 
 ## PN related files
 In addition to bodyid, name and type, columns can include:
@@ -16,11 +18,11 @@ In addition to bodyid, name and type, columns can include:
 * hemisphere: FIB
 * valence: for VP PNs
 
-The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs, on the right hemisphere. 
+The file `FIB_uPNs.csv` lists all uniglomerular olfactory uPNs, on the right hemisphere.
 
 The file `FIB_LHS_uPNs.csv` lists the identifiable uniglomerular olfactory uPNs, on the left hemisphere. The axon is truncated as it extends dorsally, and in some instances, the dendrites are also partially truncated.
 
-The file `FIB_VP_PNs.csv` lists all thermo- and hygrosensory PNs (uni-, bi- and multiglomerular ones) as identified by Lisa Marin (for more info see [Marin et al, 2020](https://doi.org/10.1016/j.cub.2020.06.028). Some multiglomerular ones might also receive some olfactory input, but the expectation is that most input will be thermo-sensory. 
+The file `FIB_VP_PNs.csv` lists all thermo- and hygrosensory PNs (uni-, bi- and multiglomerular ones) as identified by Lisa Marin (for more info see [Marin et al, 2020](https://doi.org/10.1016/j.cub.2020.06.028). Some multiglomerular ones might also receive some olfactory input, but the expectation is that most input will be thermo-sensory.
 
 The file `FIB_mPNs.csv` lists all remaining multiglomerular PNs. They might receive only olfactory or mixed input.
 
@@ -36,7 +38,7 @@ The file `uPNsdf_FIB_FAFB.csv` includes for each classical (i.e. canonical) uPNs
 The file `other_PNs.csv` lists non classical olfactory or thermo-hygro PNs, those that include SEZ innervation and almost bypass the AL or those that input onto the AL.
 
 ## RN related files
-The file `FIB_RNs.csv` lists all RNs. It includes name and type (as in neuPrint), glomerulus, laterality for the type (unilateral (U) or bilateral (B)), soma side (ipsilateral or contralateral) and modality (according to the glomerulus). For a subset of RNs, it also includes cable length (in micrometers) and presynapse numbers subsetted to the relevant glomerulus mesh (generated from RNs), as well as the non-subsetted presynapse numbers. 
+The file `FIB_RNs.csv` lists all RNs. It includes name and type (as in neuPrint), glomerulus, laterality for the type (unilateral (U) or bilateral (B)), soma side (ipsilateral or contralateral) and modality (according to the glomerulus). For a subset of RNs, it also includes cable length (in micrometers) and presynapse numbers subsetted to the relevant glomerulus mesh (generated from RNs), as well as the non-subsetted presynapse numbers.
 The field 'notes' indicates 7 outlier or problematic RNs.
 
 The file `AL_gloms_RN_info.csv` lists for each glomerulus the receptor (as known as this time), the number of expected RNs for each type and its citation, the qualitative assessement of glomeruli truncation in the hemibrain dataset as well as RN fragmentation status.
