@@ -6,7 +6,7 @@
 5,2065197353,VP5+VP3_l2PN(t10ALT)_R,VP5+VP3_l2PN,biPN,biPN,t10-lALT,VP5 + VP3,l2PN,FIB,thermohygro,humid_cooling
 6,2038617453,VP5+VP2_l2PN(t10ALT)_R,VP5+VP2_l2PN,biPN,biPN,t10-lALT,VP5 + VP2,l2PN,FIB,thermohygro,humid_heating
 7,2069644133,VP5+_l2PN(t10ALT)_R,VP5+_l2PN,uPN,uPN,t10-lALT,VP5+,l2PN,FIB,hygrosensory,humid
-8,1225100939,VP2+VC5_l2PN(lALT)_R,VP2+VC5_l2PN,biPN,biPN,lALT,VP2 + VC5,l2PN,FIB,thermosensory,heating_unknown
+8,1225100939,VP2+VM6_l2PN(lALT)_R,VP2+VM6_l2PN,biPN,biPN,lALT,VP2 + VC5,l2PN,FIB,thermosensory,heating_unknown
 9,1788676257,VP3+_l2PN(t10ALT)_R,VP3+_l2PN,uPN,uPN,t10-lALT,VP3+,l2PN,FIB,thermosensory,cooling
 10,5813069447,VP2_l2PN(lALT)_R,VP2_l2PN,uPN,uPN,lALT,VP2,l2PN,FIB,thermosensory,heating
 11,5813056072,VP1m_l2PN(lALT)_R,VP1m_l2PN,uPN,uPN,lALT,VP1m,l2PN,FIB,hygrosensory,humid

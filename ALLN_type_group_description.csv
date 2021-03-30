@@ -27,35 +27,35 @@ bodyid,our_type,type description,classification,grouped,group description
 1824101645,lLN1_c,broad LN belonging to the LN1 type (Tanaka et al. 2012),l_LN_broad_,lLN1,broad LN belonging to the LN1 type (Tanaka et al. 2012)
 5813047691,lLN1_c,broad LN belonging to the LN1 type (Tanaka et al. 2012),l_LN_broad_,lLN1,broad LN belonging to the LN1 type (Tanaka et al. 2012)
 5813062199,lLN1_c,broad LN belonging to the LN1 type (Tanaka et al. 2012),l_LN_broad_,lLN1,broad LN belonging to the LN1 type (Tanaka et al. 2012)
-1825789179,lLN10,unique regional LN,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1670278227,lLN11,weak regional or sparse LNs with a similar split into two main branches close to the soma,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1979569670,lLN11,weak regional or sparse LNs with a similar split into two main branches close to the soma,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-2040301572,lLN11,weak regional or sparse LNs with a similar split into two main branches close to the soma,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1826445251,lLN12A,regional LNs that innervate the same area of the AL,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1918565786,lLN12A,regional LNs that innervate the same area of the AL,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1919208947,lLN12A,regional LNs that innervate the same area of the AL,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1671270875,lLN12B,"sparse LNs that innervate the same are of the AL, have a small more densely innervated area",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-5812996027,lLN12B,"sparse LNs that innervate the same are of the AL, have a small more densely innervated area",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1826825128,lLN13,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1887867926,lLN13,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-5901194966,lLN13,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1702323388,lLN14,"very weakly innervating sparse LN, one half with bead-like structure",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1951971057,lLN14,"very weakly innervating sparse LN, one half with bead-like structure",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1824745150,lLN15,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut",l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1887160257,lLN15,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut",l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-5812998538,lLN15,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut",l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1702318692,lLN16A,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1732667174,lLN16A,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-2011308218,lLN16A,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1701965055,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1763360713,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1856820145,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1857485213,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1887168462,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1887518225,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1918207300,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-1918173122,lLN17,sparse LNs that innervate mostly the VA1 with additional weak neurites in other areas of AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
-2013333009,lLN17,sparse LNs that innervate mostly the VA1 with additional weak neurites in other areas of AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage 
+1825789179,lLN10,unique regional LN,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1670278227,lLN11,weak regional or sparse LNs with a similar split into two main branches close to the soma,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1979569670,lLN11,weak regional or sparse LNs with a similar split into two main branches close to the soma,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+2040301572,lLN11,weak regional or sparse LNs with a similar split into two main branches close to the soma,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1826445251,lLN12A,regional LNs that innervate the same area of the AL,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1918565786,lLN12A,regional LNs that innervate the same area of the AL,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1919208947,lLN12A,regional LNs that innervate the same area of the AL,l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1671270875,lLN12B,"sparse LNs that innervate the same are of the AL, have a small more densely innervated area",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+5812996027,lLN12B,"sparse LNs that innervate the same are of the AL, have a small more densely innervated area",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1826825128,lLN13,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1887867926,lLN13,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+5901194966,lLN13,regional or sparse LNs with a similar split into two main branches and innervate the same area of the AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1702323388,lLN14,"very weakly innervating sparse LN, one half with bead-like structure",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1951971057,lLN14,"very weakly innervating sparse LN, one half with bead-like structure",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1824745150,lLN15,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut",l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1887160257,lLN15,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut",l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+5812998538,lLN15,"regional LNs that innervate the same are of the AL, with several long neurites towards the midline but no bilateral projections, poss cut",l_LN_regional_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1702318692,lLN16A,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1732667174,lLN16A,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+2011308218,lLN16A,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1701965055,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1763360713,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1856820145,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1857485213,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1887168462,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1887518225,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1918207300,lLN16B,"sparse LNs that innervate the same area of the AL, very spread out",l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+1918173122,lLN17,sparse LNs that innervate mostly the VA1 with additional weak neurites in other areas of AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
+2013333009,lLN17,sparse LNs that innervate mostly the VA1 with additional weak neurites in other areas of AL,l_LN_sparse_,lLN10-17,unilateral regional or sparse LNs belonging l lineage
 1640922754,lLN2S,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012),l_LN_broad_,lLN2S,broad LNs belonging to the LN2 type (Tanaka et al. 2012)
 1670627928,lLN2S,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012),l_LN_broad_,lLN2S,broad LNs belonging to the LN2 type (Tanaka et al. 2012)
 1702306037,lLN2S,Star shaped (neurite to center of AL and then split into several main banches) LNs belonging to the LN2 type (Tanaka et al. 2012),l_LN_broad_,lLN2S,broad LNs belonging to the LN2 type (Tanaka et al. 2012)
@@ -101,11 +101,11 @@ bodyid,our_type,type description,classification,grouped,group description
 1669924220,lLN2T_d,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012),l_LN_regional_bil,lLN2T_d-e,bilateral LNs belonging to the LN2 type (Tanaka et al. 2012)
 1640922516,lLN2T_e,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012),l_LN_broad_bil,lLN2T_d-e,bilateral LNs belonging to the LN2 type (Tanaka et al. 2012)
 1699974843,lLN2T_e,Tortuous (similar to patchy) LNs belonging to the LN2 type (Tanaka et al. 2012),l_LN_broad_bil,lLN2T_d-e,bilateral LNs belonging to the LN2 type (Tanaka et al. 2012)
-2041993364,lLN7,unique regional bilateral LN with a thick neurite towards the GNG,l_LN_regional_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage 
-1795734228,lLN8,sparse bilateral LNs with dense innervation in DL2 and DP1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage 
-1885765762,lLN8,sparse bilateral LNs with dense innervation in DL2 and DP1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage 
-1857485083,lLN9,sparse bilateral LNs with dense innervation in VA1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage 
-5901197989,lLN9,sparse bilateral LNs with dense innervation in VA1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage 
+2041993364,lLN7,unique regional bilateral LN with a thick neurite towards the GNG,l_LN_regional_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage
+1795734228,lLN8,sparse bilateral LNs with dense innervation in DL2 and DP1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage
+1885765762,lLN8,sparse bilateral LNs with dense innervation in DL2 and DP1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage
+1857485083,lLN9,sparse bilateral LNs with dense innervation in VA1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage
+5901197989,lLN9,sparse bilateral LNs with dense innervation in VA1 Glom,l_LN_sparse_bil,lLN7-9,bilateral sparse or regional LNs belonging l lineage
 1730996778,v2LN3A,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012),v2_LN_regional_bil,v2LN3,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
 5901196806,v2LN3A,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012),v2_LN_regional_bil,v2LN3,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
 1888199872,v2LN3B,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012),v2_LN_regional_bil,v2LN3,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
@@ -154,8 +154,8 @@ bodyid,our_type,type description,classification,grouped,group description
 2040270763,v2LN47,sparse bilatera LNs with main innervation in VL2p Glom,v2_LN_sparse_bil,v2LN5  v2LN40-41  v2LN46-48,bilateral sparse LN belonging to the v2 lineage with dense neurites in single glom
 2071305421,v2LN47,sparse bilatera LNs with main innervation in VL2p Glom,v2_LN_sparse_bil,v2LN5  v2LN40-41  v2LN46-48,bilateral sparse LN belonging to the v2 lineage with dense neurites in single glom
 5813002313,v2LN48,unique sparse bilateral LN,v2_LN_sparse_bil,v2LN5  v2LN40-41  v2LN46-48,bilateral sparse LN belonging to the v2 lineage with dense neurites in single glom
-1883102183,v2LN5,"sparse bilateral LNs belonging to the LN5 type (Tanaka et al. 2012), VC5",v2_LN_sparse_bil,v2LN5  v2LN40-41  v2LN46-48,bilateral sparse LN belonging to the v2 lineage with dense neurites in single glom
-5813066684,v2LN5,"sparse bilateral LNs belonging to the LN5 type (Tanaka et al. 2012), VC5",v2_LN_sparse_bil,v2LN5  v2LN40-41  v2LN46-48,bilateral sparse LN belonging to the v2 lineage with dense neurites in single glom
+1883102183,v2LN5,"sparse bilateral LNs belonging to the LN5 type (Tanaka et al. 2012), VM6",v2_LN_sparse_bil,v2LN5  v2LN40-41  v2LN46-48,bilateral sparse LN belonging to the v2 lineage with dense neurites in single glom
+5813066684,v2LN5,"sparse bilateral LNs belonging to the LN5 type (Tanaka et al. 2012), VM6",v2_LN_sparse_bil,v2LN5  v2LN40-41  v2LN46-48,bilateral sparse LN belonging to the v2 lineage with dense neurites in single glom
 2039273648,v2LN2,ventral LNs belonging to the LN2 type (Tanaka et al. 2012),v2_LN_sparse_,v2LN2 v2LN39  v2LN49-50,unilateral sparse LN belonging to the v2 lineage with weak neurites
 2132374646,v2LN2,ventral LNs belonging to the LN2 type (Tanaka et al. 2012),v2_LN_sparse_,v2LN2 v2LN39  v2LN49-50,unilateral sparse LN belonging to the v2 lineage with weak neurites
 5813102390,v2LN2,ventral LNs belonging to the LN2 type (Tanaka et al. 2012),v2_LN_sparse_,v2LN2 v2LN39  v2LN49-50,unilateral sparse LN belonging to the v2 lineage with weak neurites
@@ -193,6 +193,6 @@ bodyid,our_type,type description,classification,grouped,group description
 1794037618,vLN25,"regional LNs innervating the same area of the AL, strongly innervating the VL2 and DP1l Glom",v_LN_regional_,vLN24-25,regionl LN from the v lineage
 5813018729,vLN25,"regional LNs innervating the same area of the AL, strongly innervating the VL2 and DP1l Glom",v_LN_regional_,vLN24-25,regionl LN from the v lineage
 5813071384,vLN26,"only bilateral LN in the v lineage, neurites towards the GNG",v_LN_sparse_bil,vLN26,bilateral sparse LN from the v lineage
-5813018847,vLN27,"sparse LN innervating mainly VC5 Glom, unique additiona neurite",v_LN_sparse_,vLN27-29,sparse LN from the v lineage with dense neurites in VC5 Glom
-2101391269,vLN28,"sparse LN innervating mainly VC5 Glom, unique additiona neurite",v_LN_sparse_,vLN27-29,sparse LN from the v lineage with dense neurites in VC5 Glom
-5813055448,vLN29,"sparse LN innervating mainly VC5 Glom, unique additiona neurite",v_LN_sparse_,vLN27-29,sparse LN from the v lineage with dense neurites in VC5 Glom
+5813018847,vLN27,"sparse LN innervating mainly VM6 Glom, unique additiona neurite",v_LN_sparse_,vLN27-29,sparse LN from the v lineage with dense neurites in VM6 Glom
+2101391269,vLN28,"sparse LN innervating mainly VM6 Glom, unique additiona neurite",v_LN_sparse_,vLN27-29,sparse LN from the v lineage with dense neurites in VM6 Glom
+5813055448,vLN29,"sparse LN innervating mainly VM6 Glom, unique additiona neurite",v_LN_sparse_,vLN27-29,sparse LN from the v lineage with dense neurites in VM6 Glom

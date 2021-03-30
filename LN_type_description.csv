@@ -141,12 +141,12 @@ bodyid,our_type,classification,description
 1883443069,v2LN38,v2_LN_sparse_bil,"sparse bilateral LNs innervating the VP Glom, mainly VP5"
 2038280489,v2LN38,v2_LN_sparse_bil,"sparse bilateral LNs innervating the VP Glom, mainly VP5"
 5813040492,v2LN38_L,v2contra_LN_sparse_bil,"sparse bilateral LNs innervating the VP Glom, mainly VP5, from the LH"
-1887177026,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
-2069989274,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
-2100666288,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
-2256863785,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
-1915155414,v2LN39B,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
-2008926220,v2LN39B,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites 
+1887177026,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites
+2069989274,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites
+2100666288,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites
+2256863785,v2LN39A,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites
+1915155414,v2LN39B,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites
+2008926220,v2LN39B,v2_LN_sparse_,sparse LNs innervating mainly the VP Glom but with additional neurites
 1700644008,v2LN3A,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
 1730651751,v2LN3A,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
 1730996778,v2LN3A,v2_LN_regional_bil,regional bilateral LNs belonging to the LN3 type (Tanaka et al. 2012)
@@ -193,9 +193,9 @@ bodyid,our_type,classification,description
 1794037618,vLN25,v_LN_regional_,"regional LNs innervating the same area of the AL, strongly innervating the VL2 and DP1l Glom"
 5813018729,vLN25,v_LN_regional_,"regional LNs innervating the same area of the AL, strongly innervating the VL2 and DP1l Glom"
 5813071384,vLN26,v_LN_sparse_bil,"only bilateral LN in the v lineage, neurites towards the GNG"
-5813018847,vLN27,v_LN_sparse_,"sparse LN innervating mainly VC5 Glom, unique additiona neurite"
-2101391269,vLN28,v_LN_sparse_,"sparse LN innervating mainly VC5 Glom, unique additiona neurite"
-5813055448,vLN29,v_LN_sparse_,"sparse LN innervating mainly VC5 Glom, unique additiona neurite"
+5813018847,vLN27,v_LN_sparse_,"sparse LN innervating mainly VM6 Glom, unique additiona neurite"
+2101391269,vLN28,v_LN_sparse_,"sparse LN innervating mainly VM6 Glom, unique additiona neurite"
+5813055448,vLN29,v_LN_sparse_,"sparse LN innervating mainly VM6 Glom, unique additiona neurite"
 1670265095,LN,contra_LN_regional_bil,truncated but high confidence in identification
 1670273743,LN,_LN_regional_,truncated but high confidence in identification
 5813070873,LN,contra_LN_regional_bil,truncated but high confidence in identification

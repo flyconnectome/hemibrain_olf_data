@@ -35,10 +35,10 @@
 34,VA7m,,bilateral,Rybak2016,15,0,<25%,yes
 35,VC1,Or33c/Or85e,bilateral,Grabe2016,12,1,0,no
 36,VC2,Or71a,bilateral,Grabe2016,11.5,0,0,yes
-37,VC3l,Or35a (co Or83b+Ir76b),bilateral,Grabe2016,23.75,6.9,0,no
-38,VC3m,Or35a (co Or83b+Ir76b),bilateral,Grabe2016,23.75,6.9,>25%,yes
+37,VC3,Or35a (co Or83b+Ir76b),bilateral,Grabe2016,46.5,6.9,0,no
+38,VC5,Ir41a (co Ir25a+Ir76b),bilateral,Grabe2016,15,2.7,>25%,yes
 39,VC4,Or67c,bilateral,Grabe2016,14,4,0,yes
-40,VC5,Ir41a (co Ir25a+Ir76b),bilateral,Grabe2016,15,2.7,<25%,yes
+40,VM6,,bilateral,Grabe2016,11,2.8,<25%,yes
 41,VL1,Ir75d (co Ir25a),unilateral,Grabe2016,15,0,0,no
 42,VL2a,Ir84a (co Ir8a),bilateral,Grabe2016,29.5,0,0,no
 43,VL2p,Ir31a (co Ir8a),bilateral,Grabe2016,15,0,0,no
