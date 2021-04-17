@@ -1,87 +1,84 @@
-glomeruli,key_ligand,odour_scene,valence
-V,carbon dioxide,alcoholic_fermentation,aversive
-DL5,ethanol,alcoholic_fermentation,aversive
-DM2,ethanol,alcoholic_fermentation,appetitive
-VM7d,acetal,alcoholic_fermentation,appetitive
-VM3,"2,3-butanedione",alcoholic_fermentation,aversive
-VA2,"2,3-butanedione",alcoholic_fermentation,appetitive
-DP1l,acetic acid,alcoholic_fermentation,unclear
-DP1m,acetic acid,alcoholic_fermentation,aversive
-VC4,ethyl lactate,alcoholic_fermentation,unclear
-VM3,acetoin,alcoholic_fermentation,aversive
-VA2,acetoin,alcoholic_fermentation,appetitive
-DM1,ethyl acetate,yeasty,appetitive
-DM4,ethyl acetate,yeasty,appetitive
-VM7d,ethyl acetate,yeasty,appetitive
-VM5v,isomayl acetate,yeasty,appetitive
-DM3,amyl acetate,yeasty,unclear
-VA3,amyl acetate,yeasty,appetitive
-DM6,2-phenylethanol,yeasty,unclear
-VA3,2-phenylethanol,yeasty,appetitive
-VA4,2-phenylethyl acetate,yeasty,unclear
-VC2,4-ethygluaiacol,yeasty,appetitive
-VC2,4-ethygluaiacol,yeasty,appetitive
-DM1,propyl acetate,yeasty,appetitive
-VA3,acetophenone,yeasty,appetitive
-VA6,geranyl acetate,yeasty,aversive
-DM5,ethyl-3-hydroxybutyrate,yeasty,aversive
-DM3,amyl acetate,fruity,unclear
-VA3,amyl acetate,fruity,appetitive
-VM5v,isoamyl acetate,fruity,unclear
-DM2,ethyl hexanoate,fruity,unclear
-DM2,hexyl acetate,fruity,unclear
-DM2,ethyl butyrate,fruity,unclear
-VM2,ethyl butyrate,fruity,appetitive
-DM2,butyl butyrate,fruity,unclear
-VM5v,ethyl benzoate,fruity,unclear
-DL1,methyl salicytate,fruity,aversive
-VM5d,2-heptanone,fruity,appetitive
-DA3,1-pentanol,fruity,appetitive
-DC1,valencene,fruity,unclear
-DL2d,butyric acid,decaying_fruit,unclear
-DL2v,butyric acid,decaying_fruit,unclear
-VC5,polyamines,decaying_fruit,unclear
-VL2a,polyamines,decaying_fruit,unclear
-VL2p,polyamines,decaying_fruit,unclear
-VM4,phenylathylamine,decaying_fruit,unclear
-VL1,pyrrolidine,decaying_fruit,unclear
-VM1,ammonia,decaying_fruit,appetitive
-VA1v,methyl laurate,pheromones,appetitive
-VA1d,methyl palmitate,pheromones,unclear
-DA1,cis-vaccenyl acetate,pheromones,unclear
-DL3,cis-vaccenyl acetate,pheromones,unclear
-DC3,farnesol,pheromones,unclear
-D,linalool,dangerous,aversive
-DL5,benzaldehyde,dangerous,aversive
-DA2,geosmin,dangerous,aversive
-DM3,"2,5-dimethylpyrazine",dangerous,aversive
-DC1,2-nonanone,dangerous,unclear
-DL5,2-nonanone,dangerous,aversive
-DL4,iridomyrmycin,dangerous,aversive
-DC4,protons,dangerous,aversive
-VC3,1-hexanol,dangerous,unclear
-VC3l,1-hexanol,dangerous,unclear
-VC3m,1-hexanol,dangerous,unclear
-DA4l,1-hexanol,dangerous,unclear
-DL5,trans-2-hexen-1-al,dangerous,aversive
-DC2,6-methyl-5-hepten-2-ol,plant_matter,aversive
-VA6,geranylacetone,plant_matter,aversive
-VC1,fenchone,plant_matter,unclear
-VC1,cyclohexanone,plant_matter,unclear
-VL2a,phenylacetaldehyde,plant_matter,unclear
-VC3,green leaf volatiles,plant_matter,aversive
-DL5,green leaf volatiles,plant_matter,aversive
-VA5,2-methyl phenol,animal_matter,aversive
-VA7l,phenols,animal_matter,aversive
-VL2p,2-oxopentanoic acid,animal_matter,unclear
-VP1l,cool?,thermo_hygro,unclear
-VP1m,humid?,thermo_hygro,unclear
-VP1d,evaporation?,thermo_hygro,unclear
-VP2,heating,thermo_hygro,unclear
-VP3,cooling,thermo_hygro,unclear
-VP4,dry air,thermo_hygro,unclear
-VP5,moist air,thermo_hygro,unclear
-VA7m,unknown,unknown,aversive
-VA7m,benzaldehyde,dangerous,aversive
-DA4m,unknown,unknown,aversive
-VM7v,ethyl butyrate ,fruity,unclear
+glomerulus,sensillum,receptor,key_ligand,odour_scene,valence,glomeruli_BatesSchlegel2020
+D,ab9A,Or69aA/B,linalool,dangerous,aversive,D
+DA1,at1,Or67d,cis-vaccenyl acetate,pheromones,unclear,DA1
+DA2,ab4,Or56a,geosmin,dangerous,aversive,DA2
+DA3,ai2A,Or23a,1-pentanol,fruity,appetitive,DA3
+DA4l,ai2C,Or43a,1-hexanol,dangerous,unclear,DA4l
+DA4m,ai3A,Or2a,unknown,unknown,aversive,DA4m
+DC1,ai3B,Or19a,valencene,fruity,unclear,DC1
+DC1,ai3B,Or19a,2-nonanone,dangerous,unclear,DC1
+DC2,ab6,Or13a,6-methyl-5-hepten-2-ol,plant_matter,aversive,DC2
+DC3,ai2A,Or83c,farnesol,pheromones,unclear,DC3
+DC4,sacIII,Ir64a,protons,dangerous,aversive,DC4
+DL1,ab1,Or10a,methyl salicytate,fruity,aversive,DL1
+DL2d,ac3A,Ir75a/b (subset Ir75c) (co Ir8a),butyric acid,decaying_fruit,unclear,DL2d
+DL2v,ac3A,Ir75a/b (subset Ir75c) (co Ir8a),butyric acid,decaying_fruit,unclear,DL2v
+DL3,at4B,"Or65a, Or65b, Or65c",cis-vaccenyl acetate,pheromones,unclear,DL3
+DL4,ab10A,"Or49a, Or85f",iridomyrmycin,dangerous,aversive,DL4
+DL5,ab4A,Or7a,ethanol,alcoholic_fermentation,aversive,DL5
+DL5,ab4A,Or7a,benzaldehyde,dangerous,aversive,DL5
+DL5,ab4A,Or7a,2-nonanone,dangerous,aversive,DL5
+DL5,ab4A,Or7a,trans-2-hexen-1-al,dangerous,aversive,DL5
+DL5,ab4A,Or7a,green leaf volatiles,plant_matter,aversive,DL5
+DM1,ab1,Or42b,ethyl acetate,yeasty,appetitive,DM1
+DM1,ab1,Or42b,propyl acetate,yeasty,appetitive,DM1
+DM2,ab3A,Or22a/b,ethanol,alcoholic_fermentation,appetitive,DM2
+DM2,ab3A,Or22a/b,ethyl hexanoate,fruity,unclear,DM2
+DM2,ab3A,Or22a/b,hexyl acetate,fruity,unclear,DM2
+DM2,ab3A,Or22a/b,ethyl butyrate,fruity,unclear,DM2
+DM3,ab5B,Or47a,amyl acetate,yeasty,unclear,DM3
+DM3,ab5B,Or47a,amyl acetate,fruity,unclear,DM3
+DM3,ab5B,Or47a,"2,5-dimethylpyrazine",dangerous,aversive,DM3
+DM4,ab2,Or59b,ethyl acetate,yeasty,appetitive,DM4
+DM5,ab2,"Or85a, Or33b",ethyl-3-hydroxybutyrate,yeasty,aversive,DM5
+DM6,ab10B,Or67a,2-phenylethanol,yeasty,unclear,DM6
+DP1l,ac2A,Ir75a (co Ir8a),acetic acid,alcoholic_fermentation,unclear,DP1l
+DP1m,sacIII,Ir64a,acetic acid,alcoholic_fermentation,aversive,DP1m
+V,ab1,Gr21a/Gr63a,carbon dioxide,alcoholic_fermentation,aversive,V
+VA1d,at4C,Or88a,methyl palmitate,pheromones,unclear,VA1d
+VA1v,at4A,Or47b,methyl laurate,pheromones,appetitive,VA1v
+VA2,ab1,Or92a,"2,3-butanedione",alcoholic_fermentation,appetitive,VA2
+VA2,ab1,Or92a,acetoin,alcoholic_fermentation,appetitive,VA2
+VA3,ab9B,Or67b,amyl acetate,yeasty,appetitive,VA3
+VA3,ab9B,Or67b,2-phenylethanol,yeasty,appetitive,VA3
+VA3,ab9B,Or67b,acetophenone,yeasty,appetitive,VA3
+VA3,ab9B,Or67b,amyl acetate,fruity,appetitive,VA3
+VA4,pb3,Or85d,2-phenylethyl acetate,yeasty,unclear,VA4
+VA5,ab6B,Or49b,2-methyl phenol,animal_matter,aversive,VA5
+VA6,ab5A,Or82a,geranyl acetate,yeasty,aversive,VA6
+VA6,ab5A,Or82a,geranylacetone,plant_matter,aversive,VA6
+VA7l,pb2,Or46aA,phenols,animal_matter,aversive,VA7l
+VA7m,NA,NA,unknown,unknown,aversive,VA7m
+VA7m,NA,NA,benzaldehyde,dangerous,aversive,VA7m
+VC1,pb2,Or33c/Or85e,fenchone,plant_matter,unclear,VC1
+VC1,pb2,Or33c/Or85e,cyclohexanone,plant_matter,unclear,VC1
+VC2,pb1,Or71a,4-ethygluaiacol,yeasty,appetitive,VC2
+VC3,ac3,OR35a,1-hexanol,dangerous,aversive,VC3l
+VC3,ac3,OR35a,green leaf volatiles,plant_matter,aversive,VC3l
+VC4,ab7B,Or67c,ethyl lactate,alcoholic_fermentation,unclear,VC4
+VC5,ac2,Ir41a,polyamines,decaying_fruit,unclear,VC3m
+VL1,ac1B/2B/4B,Ir75d (co Ir25a),pyrrolidine,decaying_fruit,unclear,VL1
+VL2a,ac4C,Ir84a (co Ir8a),polyamines,decaying_fruit,unclear,VL2a
+VL2a,ac4C,Ir84a (co Ir8a),phenylacetaldehyde,plant_matter,unclear,VL2a
+VL2p,ac1A,Ir31a (co Ir8a),polyamines,decaying_fruit,unclear,VL2p
+VL2p,ac1A,Ir31a (co Ir8a),2-oxopentanoic acid,animal_matter,unclear,VL2p
+VM1,ac1C,Ir92a (co Ir25a+Ir76b),ammonia,decaying_fruit,appetitive,VM1
+VM2,ab8A,Or43b,ethyl butyrate,fruity,appetitive,VM2
+VM3,ab8B,Or9a,"2,3-butanedione",alcoholic_fermentation,aversive,VM3
+VM3,ab8B,Or9a,acetoin,alcoholic_fermentation,aversive,VM3
+VM4,ac4A,Ir76a (co Ir76b + Ir25a),phenylathylamine,decaying_fruit,unclear,VM4
+VM5d,ab3B,Or85b,2-heptanone,fruity,appetitive,VM5d
+VM5v,ab7A,Or98a,isomayl acetate,yeasty,appetitive,VM5v
+VM5v,ab7A,Or98a,isoamyl acetate,fruity,unclear,VM5v
+VM5v,ab7A,Or98a,ethyl benzoate,fruity,unclear,VM5v
+VM6,ac1/sacIII,Rh50/Amt,ammonia,decaying_fruit,appetitive,VC5
+VM7d,pb1,Or42a,acetal,alcoholic_fermentation,appetitive,VM7d
+VM7d,pb1,Or42a,ethyl acetate,yeasty,appetitive,VM7d
+VM7v,pb3,Or59c,ethyl butyrate ,fruity,unclear,VM7v
+VP1d,sacII,Ir40a (co Ir25a),evaporation?,thermo_hygro,unclear,VP1d
+VP1l,sacI,"Ir21a, (co Ir25a)",cool,thermo_hygro,unclear,VP1l
+VP1m,sacI,Ir68a (co Ir25a? unclear),humid,thermo_hygro,unclear,VP1m
+VP2,arista,"Gr28b, (co Ir25a)",heating,thermo_hygro,unclear,VP2
+VP3,arista,"Ir21a, (co Ir25a)",cooling,thermo_hygro,unclear,VP3
+VP4,sacI and sacII,Ir40a (co Ir25a),dry air,thermo_hygro,unclear,VP4
+VP5,sacII,Ir68a (co Ir25a? unclear),moist air,thermo_hygro,unclear,VP5
