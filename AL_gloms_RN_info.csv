@@ -1,59 +1,59 @@
-,glomerulus,RN,laterality,expected_cit,expected_RN_female_1h,expected_RN_female_SD,missing,RN_frag
-1,D,Or69aA/B,bilateral,Grabe2016,24,6.1,<25%,yes
-2,DA1,Or67d,bilateral,Grabe2016,62.5,10.8,0,no
-3,DA2,Or56a,bilateral,Grabe2016,24,1.9,<25%,yes
-4,DA3,Or23a,bilateral,Grabe2016,15,0,<25%,yes
-5,DA4l,,bilateral,Grabe2016,27,3,>25%,yes
-6,DA4m,Or2a,bilateral,Grabe2016,27,0,>25%,yes
-7,DC1,Or19a,bilateral,Grabe2016,27,0,0,no
-8,DC2,Or13a,bilateral,Grabe2016,15,2.5,0,no
-9,DC3,Or83c,bilateral,Grabe2016,15,2.9,0,yes
-10,DC4,Ir64a,bilateral,Grabe2016,15,0,0,no
-11,DL1,Or10a,bilateral,Grabe2016,37.5,6.5,0,no
-12,DL2d,Ir75a/b (subset Ir75c) (co Ir8a),bilateral,Grabe2016,0,0,0,no
-13,DL2v,Ir75a/b (subset Ir75c) (co Ir8a),bilateral,Grabe2016,0,0,0,no
-14,DL3,"Or65a, Or65b, Or65c",bilateral,Grabe2016,19.5,0,0,no
-15,DL4,"Or49a, Or85f",bilateral,Grabe2016,18,3.2,0,no
-16,DL5,Or7a,bilateral,Grabe2016,24,0,0,no
-17,DM1,Or42b,bilateral,Grabe2016,38.5,4.6,0,no
-18,DM2,Or22a/b,bilateral,Grabe2016,8,3.9,0,no
-19,DM3,Or47a,bilateral,Grabe2016,34,8,0,no
-20,DM4,Or59b,bilateral,Grabe2016,23,0,0,no
-21,DM5,"Or85a, Or33b",bilateral,Grabe2016,23,6,>25%,yes
-22,DM6,Or67a,bilateral,Tobin2017,26.5,0.71,0,no
-23,DP1l,Ir75a (co Ir8a),bilateral,Grabe2016,15,0,0,no
-24,DP1m,Ir64a,bilateral,Grabe2016,15,0,0,no
-25,V,Gr21a/Gr63a,unilateral,Grabe2016,39.8,0,0,no
-26,VA1d,Or88a,bilateral,Grabe2016,19.5,3.7,<25%,yes
-27,VA1v,Or47b,bilateral,Horne2018,53.5,3.5,0,yes
-28,VA2,Or92a,bilateral,Grabe2016,43.5,0,>25%,yes
-29,VA3,Or67b,bilateral,Grabe2016,24,0,0,yes
-30,VA4,Or85d,bilateral,Grabe2016,29,0,0,yes
-31,VA5,Or49b,bilateral,Grabe2016,15,0,0,yes
-32,VA6,Or82a,bilateral,Grabe2016,34,0,<25%,yes
-33,VA7l,Or46aA,bilateral,Grabe2016,14.5,2.7,0,yes
-34,VA7m,,bilateral,Rybak2016,15,0,<25%,yes
-35,VC1,Or33c/Or85e,bilateral,Grabe2016,12,1,0,no
-36,VC2,Or71a,bilateral,Grabe2016,11.5,0,0,yes
-37,VC3,Or35a (co Or83b+Ir76b),bilateral,Grabe2016,47.5,6.9,0,no
-38,VC5,Ir41a (co Ir25a+Ir76b),bilateral,Grabe2016,15,2.7,>25%,yes
-39,VC4,Or67c,bilateral,Grabe2016,14,4,0,yes
-40,VM6,Rh50/Amt,bilateral,Grabe2016,11,2.8,<25%,yes
-41,VL1,Ir75d (co Ir25a),unilateral,Grabe2016,15,0,0,no
-42,VL2a,Ir84a (co Ir8a),bilateral,Grabe2016,29.5,0,0,no
-43,VL2p,Ir31a (co Ir8a),bilateral,Grabe2016,15,0,0,no
-44,VM1,Ir92a (co Ir25a+Ir76b),bilateral,Grabe2016,15,1.7,>25%,yes
-45,VM2,Or43b,bilateral,Grabe2016,18,6.5,>25%,yes
-46,VM3,Or9a,bilateral,Grabe2016,18,0,>25%,yes
-47,VM4,Ir76a (co Ir76b + Ir25a),bilateral,Grabe2016,29.5,2.8,<25%,yes
-48,VM5d,Or85b,bilateral,Grabe2016,8,0,<25%,yes
-49,VM5v,Or98a,bilateral,Grabe2016,8.5,2.9,<25%,yes
-50,VM7d,Or42a,bilateral,Grabe2016,11.5,6.5,<25%,yes
-51,VM7v,Or59c,bilateral,Grabe2016,29,10.4,0,no
-52,VP1d,Ir40a (co Ir25a),unilateral,Marin2020,8,1.4,0,no
-53,VP1l,"Ir21a, (co Ir25a)",unilateral,Marin2020,6.5,0.71,0,no
-54,VP1m,Ir68a (co Ir25a? unclear),unilateral,Marin2020,6.5,0.71,0,no
-55,VP2,"Gr28b, (co Ir25a)",unilateral,Marin2020,3.5,0.71,0,no
-56,VP3,"Ir21a, (co Ir25a)",unilateral,Marin2020,4.5,0.71,0,no
-57,VP4,Ir40a (co Ir25a),bilateral,Marin2020,14,0,0,no
-58,VP5,Ir68a (co Ir25a? unclear),unilateral,Marin2020,8,1.4,0,no
+,glomerulus,RN,laterality,expected_cit,expected_RN_female_1h,expected_RN_female_SD,missing,RN_frag,notes
+1,D,Or69aA/B,bilateral,Grabe2016,24,6.1,<25%,yes,
+2,DA1,Or67d,bilateral,Grabe2016,62.5,10.8,0,no,
+3,DA2,Or56a,bilateral,Gruber2022,22,0,<25%,yes,preprint gives overall number: 44. We divided it by 2 for 1h.
+4,DA3,Or23a,bilateral,Grabe2016,15,0,<25%,yes,
+5,DA4l,,bilateral,Grabe2016,27,3,>25%,yes,
+6,DA4m,Or2a,bilateral,Grabe2016,27,0,>25%,yes,
+7,DC1,Or19a,bilateral,Grabe2016,27,0,0,no,
+8,DC2,Or13a,bilateral,Grabe2016,15,2.5,0,no,
+9,DC3,Or83c,bilateral,Grabe2016,15,2.9,0,yes,
+10,DC4,Ir64a,bilateral,Grabe2016,15,0,0,no,
+11,DL1,Or10a,bilateral,Grabe2016,37.5,6.5,0,no,
+12,DL2d,Ir75a/b (subset Ir75c) (co Ir8a),bilateral,Grabe2016,0,0,0,no,
+13,DL2v,Ir75a/b (subset Ir75c) (co Ir8a),bilateral,Grabe2016,0,0,0,no,
+14,DL3,"Or65a, Or65b, Or65c",bilateral,Grabe2016,19.5,0,0,no,
+15,DL4,"Or49a, Or85f",bilateral,Grabe2016,18,3.2,0,no,
+16,DL5,Or7a,bilateral,Gruber2022,23,0,0,no,preprint gives overall number: 46. We divided it by 2 for 1h.
+17,DM1,Or42b,bilateral,Grabe2016,38.5,4.6,0,no,
+18,DM2,Or22a/b,bilateral,Grabe2016,8,3.9,0,no,
+19,DM3,Or47a,bilateral,Grabe2016,34,8,0,no,
+20,DM4,Or59b,bilateral,Grabe2016,23,0,0,no,
+21,DM5,"Or85a, Or33b",bilateral,Grabe2016,23,6,>25%,yes,
+22,DM6,Or67a,bilateral,Tobin2017,26.5,0.71,0,no,
+23,DP1l,Ir75a (co Ir8a),bilateral,Grabe2016,15,0,0,no,
+24,DP1m,Ir64a,bilateral,Grabe2016,15,0,0,no,
+25,V,Gr21a/Gr63a,unilateral,Grabe2016,39.8,0,0,no,
+26,VA1d,Or88a,bilateral,Grabe2016,19.5,3.7,<25%,yes,
+27,VA1v,Or47b,bilateral,Horne2018,53.5,3.5,0,yes,
+28,VA2,Or92a,bilateral,Grabe2016,43.5,0,>25%,yes,
+29,VA3,Or67b,bilateral,Grabe2016,24,0,0,yes,
+30,VA4,Or85d,bilateral,Grabe2016,29,0,0,yes,
+31,VA5,Or49b,bilateral,Grabe2016,15,0,0,yes,
+32,VA6,Or82a,bilateral,Grabe2016,34,0,<25%,yes,
+33,VA7l,Or46aA,bilateral,Grabe2016,14.5,2.7,0,yes,
+34,VA7m,,bilateral,Rybak2016,15,0,<25%,yes,
+35,VC1,Or33c/Or85e,bilateral,Grabe2016,12,1,0,no,
+36,VC2,Or71a,bilateral,Grabe2016,11.5,0,0,yes,
+37,VC3,Or35a (co Or83b+Ir76b),bilateral,Grabe2016,47.5,6.9,0,no,
+38,VC5,Ir41a (co Ir25a+Ir76b),bilateral,Grabe2016,15,2.7,>25%,yes,
+39,VC4,Or67c,bilateral,Grabe2016,14,4,0,yes,
+40,VM6,Rh50/Amt,bilateral,Grabe2016,11,2.8,<25%,yes,
+41,VL1,Ir75d (co Ir25a),unilateral,Grabe2016,15,0,0,no,
+42,VL2a,Ir84a (co Ir8a),bilateral,Grabe2016,29.5,0,0,no,
+43,VL2p,Ir31a (co Ir8a),bilateral,Grabe2016,15,0,0,no,
+44,VM1,Ir92a (co Ir25a+Ir76b),bilateral,Grabe2016,15,1.7,>25%,yes,
+45,VM2,Or43b,bilateral,Grabe2016,18,6.5,>25%,yes,
+46,VM3,Or9a,bilateral,Grabe2016,18,0,>25%,yes,
+47,VM4,Ir76a (co Ir76b + Ir25a),bilateral,Grabe2016,29.5,2.8,<25%,yes,
+48,VM5d,Or85b,bilateral,Grabe2016,8,0,<25%,yes,
+49,VM5v,Or98a,bilateral,Grabe2016,8.5,2.9,<25%,yes,
+50,VM7d,Or42a,bilateral,Grabe2016,11.5,6.5,<25%,yes,
+51,VM7v,Or59c,bilateral,Grabe2016,29,10.4,0,no,
+52,VP1d,Ir40a (co Ir25a),unilateral,Marin2020,8,1.4,0,no,
+53,VP1l,"Ir21a, (co Ir25a)",unilateral,Marin2020,6.5,0.71,0,no,
+54,VP1m,Ir68a (co Ir25a? unclear),unilateral,Marin2020,6.5,0.71,0,no,
+55,VP2,"Gr28b, (co Ir25a)",unilateral,Marin2020,3.5,0.71,0,no,
+56,VP3,"Ir21a, (co Ir25a)",unilateral,Marin2020,4.5,0.71,0,no,
+57,VP4,Ir40a (co Ir25a),bilateral,Marin2020,14,0,0,no,
+58,VP5,Ir68a (co Ir25a? unclear),unilateral,Marin2020,8,1.4,0,no,
